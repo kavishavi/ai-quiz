@@ -1,0 +1,76 @@
+{
+ "questions": [
+  {
+   "id": 1,
+   "question": "What does \"AI\" stand for?",
+   "option_1": "Automated Internet",
+   "option_2": "Artificial Intelligence",
+   "option_3": "Advanced Interface",
+   "option_4": "Automated Information",
+   "correct_answer": 2,
+   "category": "AI basics",
+   "note": "The term has been used since the 1950s for machines that mimic human thinking.",
+   "source": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+  },
+  {
+   "id": 2,
+   "question": "Who coined the term \"artificial intelligence\" in 1956?",
+   "option_1": "Alan Turing",
+   "option_2": "Marvin Minsky",
+   "option_3": "John McCarthy",
+   "option_4": "Claude Shannon",
+   "correct_answer": 3,
+   "category": "AI basics",
+   "note": "McCarthy proposed the 1956 Dartmouth workshop where the field got its name.",
+   "source": "https://ai.dartmouth.edu/our-story"
+  },
+  {
+   "id": 3,
+   "question": "In \"ChatGPT\", what does GPT stand for?",
+   "option_1": "General Purpose Technology",
+   "option_2": "Generative Pre-trained Transformer",
+   "option_3": "Global Processing Terminal",
+   "option_4": "Guided Prediction Text",
+   "correct_answer": 2,
+   "category": "AI basics",
+   "note": "It is \"generative\" because it creates text, and \"pre-trained\" on huge amounts of writing.",
+   "source": "https://openai.com/index/chatgpt/"
+  },
+  {
+   "id": 4,
+   "question": "Which company created ChatGPT?",
+   "option_1": "Google",
+   "option_2": "Meta",
+   "option_3": "Microsoft",
+   "option_4": "OpenAI",
+   "correct_answer": 4,
+   "category": "AI basics",
+   "note": "Microsoft is a big investor in OpenAI, but OpenAI built ChatGPT.",
+   "source": "https://openai.com/index/chatgpt/"
+  },
+  {
+   "id": 5,
+   "question": "The Turing Test checks whether...",
+   "option_1": "a computer can calculate faster than a human",
+   "option_2": "a machine's conversation is indistinguishable from a human's",
+   "option_3": "software is free of bugs",
+   "option_4": "a robot can walk like a human",
+   "correct_answer": 2,
+   "category": "AI basics",
+   "note": "Alan Turing proposed it in 1950, calling it the \"imitation game\".",
+   "source": "https://en.wikipedia.org/wiki/Turing_test"
+  },
+  {
+   "id": 6,
+   "question": "ChatGPT was released to the public in which year?",
+   "option_1": "2019",
+   "option_2": "2020",
+   "option_3": "2022",
+   "option_4": "2024",
+   "correct_answer": 3,
+   "category": "AI basics",
+   "note": "November 30, 2022. It reached a million users in about five days.",
+   "source": "https://www.history.com/this-day-in-history/november-30/chatgpt-released-openai"
+  }
+ ]
+}

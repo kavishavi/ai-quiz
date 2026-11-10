@@ -1,0 +1,543 @@
+{
+ "days": [
+  {
+   "date": "2026-11-10",
+   "questions": [
+    {
+     "id": 1,
+     "question": "What does \"AI\" stand for?",
+     "option_1": "Automated Internet",
+     "option_2": "Artificial Intelligence",
+     "option_3": "Advanced Interface",
+     "option_4": "Automated Information",
+     "correct_answer": 2,
+     "category": "AI basics",
+     "note": "The term has been used since the 1950s for machines that mimic human thinking.",
+     "source": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+    },
+    {
+     "id": 2,
+     "question": "Who coined the term \"artificial intelligence\" in 1956?",
+     "option_1": "Alan Turing",
+     "option_2": "Marvin Minsky",
+     "option_3": "John McCarthy",
+     "option_4": "Claude Shannon",
+     "correct_answer": 3,
+     "category": "AI basics",
+     "note": "McCarthy proposed the 1956 Dartmouth workshop where the field got its name.",
+     "source": "https://ai.dartmouth.edu/our-story"
+    },
+    {
+     "id": 3,
+     "question": "In \"ChatGPT\", what does GPT stand for?",
+     "option_1": "General Purpose Technology",
+     "option_2": "Generative Pre-trained Transformer",
+     "option_3": "Global Processing Terminal",
+     "option_4": "Guided Prediction Text",
+     "correct_answer": 2,
+     "category": "AI basics",
+     "note": "It is \"generative\" because it creates text, and \"pre-trained\" on huge amounts of writing.",
+     "source": "https://openai.com/index/chatgpt/"
+    },
+    {
+     "id": 4,
+     "question": "Which company created ChatGPT?",
+     "option_1": "Google",
+     "option_2": "Meta",
+     "option_3": "Microsoft",
+     "option_4": "OpenAI",
+     "correct_answer": 4,
+     "category": "AI basics",
+     "note": "Microsoft is a big investor in OpenAI, but OpenAI built ChatGPT.",
+     "source": "https://openai.com/index/chatgpt/"
+    },
+    {
+     "id": 5,
+     "question": "The Turing Test checks whether...",
+     "option_1": "a computer can calculate faster than a human",
+     "option_2": "a machine's conversation is indistinguishable from a human's",
+     "option_3": "software is free of bugs",
+     "option_4": "a robot can walk like a human",
+     "correct_answer": 2,
+     "category": "AI basics",
+     "note": "Alan Turing proposed it in 1950, calling it the \"imitation game\".",
+     "source": "https://en.wikipedia.org/wiki/Turing_test"
+    },
+    {
+     "id": 6,
+     "question": "ChatGPT was released to the public in which year?",
+     "option_1": "2019",
+     "option_2": "2020",
+     "option_3": "2022",
+     "option_4": "2024",
+     "correct_answer": 3,
+     "category": "AI basics",
+     "note": "November 30, 2022. It reached a million users in about five days.",
+     "source": "https://www.history.com/this-day-in-history/november-30/chatgpt-released-openai"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "questions": [
+    {
+     "id": 7,
+     "question": "In 1997, IBM's Deep Blue defeated which world chess champion?",
+     "option_1": "Magnus Carlsen",
+     "option_2": "Viswanathan Anand",
+     "option_3": "Bobby Fischer",
+     "option_4": "Garry Kasparov",
+     "correct_answer": 4,
+     "category": "Milestones",
+     "note": "The first computer to beat a reigning world champion in a full match.",
+     "source": "https://www.ibm.com/history/deep-blue"
+    },
+    {
+     "id": 8,
+     "question": "DeepMind's AlphaGo beat Lee Sedol in 2016 at which game?",
+     "option_1": "Chess",
+     "option_2": "Go",
+     "option_3": "Poker",
+     "option_4": "Shogi",
+     "correct_answer": 2,
+     "category": "Milestones",
+     "note": "Go has far more possible positions than chess, so this was a landmark.",
+     "source": "https://deepmind.google/research/alphago/"
+    },
+    {
+     "id": 9,
+     "question": "IBM's Watson won which TV quiz show in 2011?",
+     "option_1": "Wheel of Fortune",
+     "option_2": "Who Wants to Be a Millionaire",
+     "option_3": "Jeopardy!",
+     "option_4": "Family Feud",
+     "correct_answer": 3,
+     "category": "Milestones",
+     "note": "It beat champions Ken Jennings and Brad Rutter.",
+     "source": "https://www.ibm.com/history/watson-jeopardy"
+    },
+    {
+     "id": 10,
+     "question": "Who won the 2024 Nobel Prize in Physics for work on neural networks?",
+     "option_1": "Sam Altman and Elon Musk",
+     "option_2": "Geoffrey Hinton and John Hopfield",
+     "option_3": "Demis Hassabis and John Jumper",
+     "option_4": "Yann LeCun and Yoshua Bengio",
+     "correct_answer": 2,
+     "category": "Milestones",
+     "note": "Their work from the 1980s underpins modern machine learning.",
+     "source": "https://www.nobelprize.org/prizes/physics/2024/press-release/"
+    },
+    {
+     "id": 11,
+     "question": "AlphaFold, whose creators shared the 2024 Nobel Prize in Chemistry, predicts what?",
+     "option_1": "Weather patterns",
+     "option_2": "Earthquake timing",
+     "option_3": "Protein structures",
+     "option_4": "Stock prices",
+     "correct_answer": 3,
+     "category": "Milestones",
+     "note": "Demis Hassabis and John Jumper of Google DeepMind, with David Baker.",
+     "source": "https://www.nobelprize.org/prizes/chemistry/2024/press-release/"
+    },
+    {
+     "id": 12,
+     "question": "ELIZA, written in the 1960s at MIT, was an early example of what?",
+     "option_1": "Chatbot",
+     "option_2": "Search engine",
+     "option_3": "Spreadsheet",
+     "option_4": "Video game",
+     "correct_answer": 1,
+     "category": "Milestones",
+     "note": "ELIZA played a simple therapist; some users were convinced it understood them.",
+     "source": "https://en.wikipedia.org/wiki/ELIZA"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "questions": [
+    {
+     "id": 13,
+     "question": "In machine learning, a model mainly learns from...",
+     "option_1": "hard-coded rules",
+     "option_2": "data",
+     "option_3": "random guesses",
+     "option_4": "human operators typing live answers",
+     "correct_answer": 2,
+     "category": "How AI works",
+     "note": "Instead of following hand-written rules, it finds patterns in examples.",
+     "source": "https://en.wikipedia.org/wiki/Machine_learning"
+    },
+    {
+     "id": 14,
+     "question": "What is \"training data\"?",
+     "option_1": "The examples a model learns patterns from",
+     "option_2": "The electricity a data center uses",
+     "option_3": "The questions users type in",
+     "option_4": "The program's source code",
+     "correct_answer": 1,
+     "category": "How AI works",
+     "note": "Better and more varied training data usually means a better model.",
+     "source": "https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets"
+    },
+    {
+     "id": 15,
+     "question": "When an AI chatbot states something false with confidence, it is called...",
+     "option_1": "a hallucination",
+     "option_2": "a daydream",
+     "option_3": "a glitch-out",
+     "option_4": "a mirage",
+     "correct_answer": 1,
+     "category": "How AI works",
+     "note": "This is why important answers should be double-checked.",
+     "source": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)"
+    },
+    {
+     "id": 16,
+     "question": "The text you type into a chatbot is called a...",
+     "option_1": "commandment",
+     "option_2": "prompt",
+     "option_3": "script",
+     "option_4": "ticket",
+     "correct_answer": 2,
+     "category": "How AI works",
+     "note": "\"Prompt engineering\" is the skill of writing these well.",
+     "source": "https://en.wikipedia.org/wiki/Prompt_engineering"
+    },
+    {
+     "id": 17,
+     "question": "Neural networks are loosely inspired by...",
+     "option_1": "the human brain",
+     "option_2": "spider webs",
+     "option_3": "telephone exchanges",
+     "option_4": "ant colonies",
+     "correct_answer": 1,
+     "category": "How AI works",
+     "note": "Layers of simple units, roughly like neurons, pass signals to each other.",
+     "source": "https://en.wikipedia.org/wiki/Neural_network_(machine_learning)"
+    },
+    {
+     "id": 18,
+     "question": "A large language model like ChatGPT works by predicting...",
+     "option_1": "the next piece of text (token) in a sequence",
+     "option_2": "stock markets",
+     "option_3": "lottery numbers",
+     "option_4": "the weather",
+     "correct_answer": 1,
+     "category": "How AI works",
+     "note": "It has learned which words tend to follow which, at massive scale.",
+     "source": "https://en.wikipedia.org/wiki/Large_language_model"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "questions": [
+    {
+     "id": 19,
+     "question": "Google's AI chatbot is called...",
+     "option_1": "Copilot",
+     "option_2": "Gemini",
+     "option_3": "Claude",
+     "option_4": "Alexa",
+     "correct_answer": 2,
+     "category": "Today's AI tools",
+     "note": "It was earlier called Bard.",
+     "source": "https://en.wikipedia.org/wiki/Gemini_(chatbot)"
+    },
+    {
+     "id": 20,
+     "question": "Claude is made by which company?",
+     "option_1": "OpenAI",
+     "option_2": "Google",
+     "option_3": "Anthropic",
+     "option_4": "Amazon",
+     "correct_answer": 3,
+     "category": "Today's AI tools",
+     "note": "Anthropic was founded by former OpenAI researchers.",
+     "source": "https://www.anthropic.com/claude"
+    },
+    {
+     "id": 21,
+     "question": "Microsoft's AI assistant in Windows and Office is called...",
+     "option_1": "Cortana",
+     "option_2": "Clippy",
+     "option_3": "Copilot",
+     "option_4": "Gemini",
+     "correct_answer": 3,
+     "category": "Today's AI tools",
+     "note": "Clippy was the famous 1990s Office helper; Copilot is its modern successor.",
+     "source": "https://en.wikipedia.org/wiki/Microsoft_Copilot"
+    },
+    {
+     "id": 22,
+     "question": "Meta's AI model family is called...",
+     "option_1": "Llama",
+     "option_2": "Falcon",
+     "option_3": "Mistral",
+     "option_4": "Grok",
+     "correct_answer": 1,
+     "category": "Today's AI tools",
+     "note": "Meta releases Llama openly, so others can build on it.",
+     "source": "https://en.wikipedia.org/wiki/Llama_(language_model)"
+    },
+    {
+     "id": 23,
+     "question": "xAI's chatbot, built into X (Twitter), is called...",
+     "option_1": "Grok",
+     "option_2": "ChatGPT",
+     "option_3": "Bard",
+     "option_4": "Siri",
+     "correct_answer": 1,
+     "category": "Today's AI tools",
+     "note": "The name comes from a sci-fi word meaning \"to understand deeply\".",
+     "source": "https://en.wikipedia.org/wiki/Grok_(chatbot)"
+    },
+    {
+     "id": 24,
+     "question": "Which of these creates images from a text description?",
+     "option_1": "Zoom",
+     "option_2": "DALL·E",
+     "option_3": "Spotify",
+     "option_4": "Google Maps",
+     "correct_answer": 2,
+     "category": "Today's AI tools",
+     "note": "DALL·E is OpenAI's image generator; Midjourney and Stable Diffusion do the same.",
+     "source": "https://en.wikipedia.org/wiki/DALL-E"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "questions": [
+    {
+     "id": 25,
+     "question": "To get a better answer from a chatbot, you should...",
+     "option_1": "type in all caps",
+     "option_2": "be specific and give context",
+     "option_3": "ask the same thing repeatedly",
+     "option_4": "use only single words",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "Say what you want, who it is for, and the format you prefer.",
+     "source": "https://en.wikipedia.org/wiki/Prompt_engineering"
+    },
+    {
+     "id": 26,
+     "question": "A chatbot gives you a medical or legal answer. What should you do?",
+     "option_1": "Trust it fully; AI doesn't lie",
+     "option_2": "Verify it with a qualified professional or trusted source",
+     "option_3": "Share it with everyone immediately",
+     "option_4": "Assume AI is wrong about everything",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "Chatbots can sound confident and still be wrong.",
+     "source": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)"
+    },
+    {
+     "id": 27,
+     "question": "Which of these should you avoid pasting into a public chatbot?",
+     "option_1": "A recipe request",
+     "option_2": "Your passwords and bank details",
+     "option_3": "A poem to translate",
+     "option_4": "A math problem",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "Treat anything you type as potentially stored or seen by the provider.",
+     "source": "https://en.wikipedia.org/wiki/ChatGPT"
+    },
+    {
+     "id": 28,
+     "question": "A \"deepfake\" is...",
+     "option_1": "a very long video",
+     "option_2": "a realistic fake audio or video of a real person",
+     "option_3": "an underground website",
+     "option_4": "a corrupted video file",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "Deepfakes are used in scams and misinformation.",
+     "source": "https://en.wikipedia.org/wiki/Deepfake"
+    },
+    {
+     "id": 29,
+     "question": "A caller who sounds exactly like your grandson asks you to urgently wire money. The safest first step?",
+     "option_1": "Send a small amount to test it",
+     "option_2": "Keep asking the caller personal questions",
+     "option_3": "Hang up and call your grandson back on his usual number",
+     "option_4": "Give your account details slowly",
+     "correct_answer": 3,
+     "category": "Using AI well",
+     "note": "Scammers can clone a voice from seconds of audio. Always call back on a known number.",
+     "source": "https://www.ic3.gov/PSA/2024/PSA241203"
+    },
+    {
+     "id": 30,
+     "question": "Which task is an AI chatbot genuinely good at?",
+     "option_1": "Drafting and summarizing text",
+     "option_2": "Guaranteeing factual accuracy",
+     "option_3": "Feeling emotions",
+     "option_4": "Predicting the future",
+     "correct_answer": 1,
+     "category": "Using AI well",
+     "note": "Writing, summarizing, translating and brainstorming are its strengths.",
+     "source": "https://en.wikipedia.org/wiki/Large_language_model"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "questions": [
+    {
+     "id": 31,
+     "question": "CAPTCHA puzzles on websites exist to tell apart...",
+     "option_1": "adults and children",
+     "option_2": "humans and bots",
+     "option_3": "customers and staff",
+     "option_4": "Macs and PCs",
+     "correct_answer": 2,
+     "category": "AI in the world",
+     "note": "CAPTCHA stands for \"Completely Automated Public Turing test to tell Computers and Humans Apart\".",
+     "source": "https://en.wikipedia.org/wiki/CAPTCHA"
+    },
+    {
+     "id": 32,
+     "question": "\"AGI\" stands for...",
+     "option_1": "Automated General Internet",
+     "option_2": "Artificial General Intelligence",
+     "option_3": "Advanced Global Interface",
+     "option_4": "Applied Generative Intelligence",
+     "correct_answer": 2,
+     "category": "AI in the world",
+     "note": "AGI means AI as flexible as a human across most tasks; it does not exist yet.",
+     "source": "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
+    },
+    {
+     "id": 33,
+     "question": "The 2017 paper \"Attention Is All You Need\" introduced which design behind today's chatbots?",
+     "option_1": "The Transformer",
+     "option_2": "The Perceptron",
+     "option_3": "The Decision Tree",
+     "option_4": "The Blockchain",
+     "correct_answer": 1,
+     "category": "AI in the world",
+     "note": "The \"T\" in GPT is the Transformer, invented by Google researchers.",
+     "source": "https://arxiv.org/abs/1706.03762"
+    },
+    {
+     "id": 34,
+     "question": "\"Narrow AI\" means AI that...",
+     "option_1": "is small in size",
+     "option_2": "is good at one specific task",
+     "option_3": "runs only on phones",
+     "option_4": "can understand anything",
+     "correct_answer": 2,
+     "category": "AI in the world",
+     "note": "Every AI in use today is narrow AI, even the impressive ones.",
+     "source": "https://en.wikipedia.org/wiki/Weak_AI"
+    },
+    {
+     "id": 35,
+     "question": "The first global AI Safety Summit in 2023 met at Bletchley Park in which country?",
+     "option_1": "United States",
+     "option_2": "Germany",
+     "option_3": "India",
+     "option_4": "United Kingdom",
+     "correct_answer": 4,
+     "category": "AI in the world",
+     "note": "Bletchley Park is where Alan Turing's team broke the Enigma code in WWII.",
+     "source": "https://en.wikipedia.org/wiki/AI_Safety_Summit"
+    },
+    {
+     "id": 36,
+     "question": "Which everyday phone feature typically uses AI?",
+     "option_1": "Airplane mode",
+     "option_2": "Face unlock",
+     "option_3": "The flashlight",
+     "option_4": "The calculator",
+     "correct_answer": 2,
+     "category": "AI in the world",
+     "note": "Face unlock matches your face using a learned model.",
+     "source": "https://en.wikipedia.org/wiki/Facial_recognition_system"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "questions": [
+    {
+     "id": 37,
+     "question": "The computer HAL 9000 appears in which film?",
+     "option_1": "Blade Runner",
+     "option_2": "2001: A Space Odyssey",
+     "option_3": "The Matrix",
+     "option_4": "Star Wars",
+     "correct_answer": 2,
+     "category": "Fun & culture",
+     "note": "\"I'm sorry, Dave. I'm afraid I can't do that.\" (1968)",
+     "source": "https://en.wikipedia.org/wiki/HAL_9000"
+    },
+    {
+     "id": 38,
+     "question": "In the Terminator films, the AI that turns on humanity is called...",
+     "option_1": "Ultron",
+     "option_2": "Skynet",
+     "option_3": "Jarvis",
+     "option_4": "Vision",
+     "correct_answer": 2,
+     "category": "Fun & culture",
+     "note": "Ultron is Marvel; Jarvis and Vision are Iron Man's helpers.",
+     "source": "https://en.wikipedia.org/wiki/Skynet_(Terminator)"
+    },
+    {
+     "id": 39,
+     "question": "The humanoid robot \"Sophia\" was built by which company?",
+     "option_1": "Hanson Robotics",
+     "option_2": "Boston Dynamics",
+     "option_3": "Honda",
+     "option_4": "Tesla",
+     "correct_answer": 1,
+     "category": "Fun & culture",
+     "note": "Sophia has appeared on talk shows and at the United Nations.",
+     "source": "https://en.wikipedia.org/wiki/Sophia_(robot)"
+    },
+    {
+     "id": 40,
+     "question": "DeepMind's AI learned to play Atari games like Breakout mainly by...",
+     "option_1": "reading the game manual",
+     "option_2": "watching videos of human players",
+     "option_3": "playing thousands of games of trial and error",
+     "option_4": "copying another program",
+     "correct_answer": 3,
+     "category": "Fun & culture",
+     "note": "It saw only the screen pixels and the score, like a human would.",
+     "source": "https://www.nature.com/articles/nature14236"
+    },
+    {
+     "id": 41,
+     "question": "The word \"robot\" comes from a 1920 play by which writer?",
+     "option_1": "Isaac Asimov",
+     "option_2": "Karel Čapek",
+     "option_3": "Arthur C. Clarke",
+     "option_4": "George Orwell",
+     "correct_answer": 2,
+     "category": "Fun & culture",
+     "note": "From the Czech word \"robota\", meaning forced labor.",
+     "source": "https://en.wikipedia.org/wiki/R.U.R."
+    },
+    {
+     "id": 42,
+     "question": "Which sci-fi author created the famous \"Three Laws of Robotics\"?",
+     "option_1": "Isaac Asimov",
+     "option_2": "Philip K. Dick",
+     "option_3": "Arthur C. Clarke",
+     "option_4": "Ray Bradbury",
+     "correct_answer": 1,
+     "category": "Fun & culture",
+     "note": "First law: a robot may not injure a human being.",
+     "source": "https://en.wikipedia.org/wiki/Three_Laws_of_Robotics"
+    }
+   ]
+  }
+ ]
+}
