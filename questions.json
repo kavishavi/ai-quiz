@@ -538,6 +538,545 @@
      "source": "https://en.wikipedia.org/wiki/Three_Laws_of_Robotics"
     }
    ]
+  },
+  {
+   "date": "2026-11-17",
+   "questions": [
+    {
+     "id": 43,
+     "question": "In simple terms, what is \"machine learning\"?",
+     "option_1": "Writing rules for every situation by hand",
+     "option_2": "Systems that learn patterns from data instead of following fixed rules",
+     "option_3": "Copying code from the internet",
+     "option_4": "Building faster computer chips",
+     "correct_answer": 2,
+     "category": "AI basics",
+     "note": "Machine learning lets computers improve from examples rather than explicit instructions.",
+     "source": "https://en.wikipedia.org/wiki/Machine_learning"
+    },
+    {
+     "id": 44,
+     "question": "What does \"LLM\" stand for in AI?",
+     "option_1": "Large Language Model",
+     "option_2": "Long Learning Machine",
+     "option_3": "Logical Language Method",
+     "option_4": "Live Learning Module",
+     "correct_answer": 1,
+     "category": "AI basics",
+     "note": "LLMs like GPT are trained on huge amounts of text.",
+     "source": "https://en.wikipedia.org/wiki/Large_language_model"
+    },
+    {
+     "id": 45,
+     "question": "When a chatbot reads your message, it breaks the text into pieces called...",
+     "option_1": "Pixels",
+     "option_2": "Tokens",
+     "option_3": "Cookies",
+     "option_4": "Frames",
+     "correct_answer": 2,
+     "category": "AI basics",
+     "note": "A token is a small chunk of text - often part of a word - that the model processes.",
+     "source": "https://en.wikipedia.org/wiki/Large_language_model#Tokenization"
+    },
+    {
+     "id": 46,
+     "question": "What is \"fine-tuning\" an AI model?",
+     "option_1": "Deleting its training data",
+     "option_2": "Extra training on specific data to adapt it for a task",
+     "option_3": "Making its fans quieter",
+     "option_4": "Compressing it to run on phones",
+     "correct_answer": 2,
+     "category": "AI basics",
+     "note": "Fine-tuning takes a pre-trained model and trains it further for a narrower purpose.",
+     "source": "https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)"
+    },
+    {
+     "id": 47,
+     "question": "A \"multimodal\" AI model can...",
+     "option_1": "Run on many computers at once",
+     "option_2": "Work with more than one kind of input, like text and images",
+     "option_3": "Speak only one language",
+     "option_4": "Only answer yes or no",
+     "correct_answer": 2,
+     "category": "AI basics",
+     "note": "Multimodal models handle text, images, audio or video together.",
+     "source": "https://en.wikipedia.org/wiki/Multimodal_learning"
+    },
+    {
+     "id": 48,
+     "question": "Which of these is an example of \"generative AI\"?",
+     "option_1": "A spam filter that sorts email",
+     "option_2": "A chatbot that writes a brand-new poem for you",
+     "option_3": "A calculator app",
+     "option_4": "A phone alarm clock",
+     "correct_answer": 2,
+     "category": "AI basics",
+     "note": "Generative AI creates new content - text, images, music, video - instead of only classifying data.",
+     "source": "https://en.wikipedia.org/wiki/Generative_artificial_intelligence"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "questions": [
+    {
+     "id": 49,
+     "question": "The 1956 Dartmouth workshop is remembered as the birth of which field?",
+     "option_1": "The internet",
+     "option_2": "Artificial intelligence",
+     "option_3": "Personal computing",
+     "option_4": "Robotics",
+     "correct_answer": 2,
+     "category": "Milestones",
+     "note": "The term \"artificial intelligence\" was used for this 1956 summer workshop at Dartmouth College.",
+     "source": "https://en.wikipedia.org/wiki/Dartmouth_workshop"
+    },
+    {
+     "id": 50,
+     "question": "Apple introduced which voice assistant with the iPhone 4S in 2011?",
+     "option_1": "Alexa",
+     "option_2": "Cortana",
+     "option_3": "Siri",
+     "option_4": "Google Assistant",
+     "correct_answer": 3,
+     "category": "Milestones",
+     "note": "Siri debuted as an iPhone 4S feature in October 2011.",
+     "source": "https://en.wikipedia.org/wiki/Siri"
+    },
+    {
+     "id": 51,
+     "question": "Which neural network's 2012 ImageNet victory kicked off the modern deep-learning boom?",
+     "option_1": "AlexNet",
+     "option_2": "Deep Blue",
+     "option_3": "Watson",
+     "option_4": "AlphaGo",
+     "correct_answer": 1,
+     "category": "Milestones",
+     "note": "AlexNet won the 2012 ImageNet competition by a huge margin, sparking the deep learning era.",
+     "source": "https://en.wikipedia.org/wiki/AlexNet"
+    },
+    {
+     "id": 52,
+     "question": "OpenAI's GPT-3, released in 2020, drew attention mainly for...",
+     "option_1": "Being the first chatbot ever",
+     "option_2": "Its huge scale of 175 billion parameters",
+     "option_3": "Running without electricity",
+     "option_4": "Beating humans at chess",
+     "correct_answer": 2,
+     "category": "Milestones",
+     "note": "GPT-3's 175 billion parameters made it far larger than earlier language models.",
+     "source": "https://en.wikipedia.org/wiki/GPT-3"
+    },
+    {
+     "id": 53,
+     "question": "DeepMind's AlphaStar reached Grandmaster level in 2019 at which video game?",
+     "option_1": "Dota 2",
+     "option_2": "StarCraft II",
+     "option_3": "Fortnite",
+     "option_4": "Chess",
+     "correct_answer": 2,
+     "category": "Milestones",
+     "note": "AlphaStar was rated Grandmaster in StarCraft II, above 99.8% of human players.",
+     "source": "https://en.wikipedia.org/wiki/AlphaStar_(software)"
+    },
+    {
+     "id": 54,
+     "question": "Which Chinese AI lab's \"R1\" model made global headlines in January 2025 for strong reasoning at low cost?",
+     "option_1": "Baidu",
+     "option_2": "DeepSeek",
+     "option_3": "Alibaba",
+     "option_4": "Tencent",
+     "correct_answer": 2,
+     "category": "Milestones",
+     "note": "DeepSeek's R1 reasoning model triggered a major market reaction in January 2025.",
+     "source": "https://en.wikipedia.org/wiki/DeepSeek"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "questions": [
+    {
+     "id": 55,
+     "question": "In a neural network, what are \"parameters\"?",
+     "option_1": "The user's settings",
+     "option_2": "The internal numbers (weights) the model learns during training",
+     "option_3": "The power cables",
+     "option_4": "The list of websites it can visit",
+     "correct_answer": 2,
+     "category": "How AI works",
+     "note": "Large models have billions of learned parameters.",
+     "source": "https://en.wikipedia.org/wiki/Artificial_neural_network"
+    },
+    {
+     "id": 56,
+     "question": "What is a chatbot's \"context window\"?",
+     "option_1": "The app window on your screen",
+     "option_2": "How much text the model can take into account at once",
+     "option_3": "The time of day it works",
+     "option_4": "Its list of blocked words",
+     "correct_answer": 2,
+     "category": "How AI works",
+     "note": "A bigger context window lets a model consider longer documents and conversations.",
+     "source": "https://en.wikipedia.org/wiki/Large_language_model#Context_window"
+    },
+    {
+     "id": 57,
+     "question": "\"Reinforcement learning from human feedback\" (RLHF) trains a model using...",
+     "option_1": "Only computer games",
+     "option_2": "Human ratings of its answers",
+     "option_3": "Random noise",
+     "option_4": "Printed books only",
+     "correct_answer": 2,
+     "category": "How AI works",
+     "note": "RLHF uses people's preferences to make AI answers more helpful and safer.",
+     "source": "https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback"
+    },
+    {
+     "id": 58,
+     "question": "Image generators like Stable Diffusion work by...",
+     "option_1": "Cutting and pasting photos from the web",
+     "option_2": "Starting from noise and gradually forming an image",
+     "option_3": "Scanning the user's camera roll",
+     "option_4": "Printing on paper",
+     "correct_answer": 2,
+     "category": "How AI works",
+     "note": "Diffusion models learn to remove noise step by step until an image appears.",
+     "source": "https://en.wikipedia.org/wiki/Diffusion_model"
+    },
+    {
+     "id": 59,
+     "question": "What is \"overfitting\" in machine learning?",
+     "option_1": "When a model memorizes its training data but fails on new data",
+     "option_2": "When a model is too small",
+     "option_3": "When training finishes too early",
+     "option_4": "When the server overheats",
+     "correct_answer": 1,
+     "category": "How AI works",
+     "note": "An overfit model does great on data it has seen and poorly on fresh examples.",
+     "source": "https://en.wikipedia.org/wiki/Overfitting"
+    },
+    {
+     "id": 60,
+     "question": "In AI, an \"embedding\" is...",
+     "option_1": "A video call feature",
+     "option_2": "A numeric vector that captures the meaning of text or other data",
+     "option_3": "A type of computer virus",
+     "option_4": "A backup of the internet",
+     "correct_answer": 2,
+     "category": "How AI works",
+     "note": "Embeddings turn words and images into numbers that capture similarity of meaning.",
+     "source": "https://en.wikipedia.org/wiki/Word_embedding"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "questions": [
+    {
+     "id": 61,
+     "question": "Perplexity is best known as an AI-powered...",
+     "option_1": "Photo editor",
+     "option_2": "Answer engine for search",
+     "option_3": "Video game",
+     "option_4": "Music player",
+     "correct_answer": 2,
+     "category": "Today's AI tools",
+     "note": "Perplexity answers questions with cited sources using AI.",
+     "source": "https://en.wikipedia.org/wiki/Perplexity.ai"
+    },
+    {
+     "id": 62,
+     "question": "Which AI tool is built into GitHub to suggest code as developers type?",
+     "option_1": "GitHub Copilot",
+     "option_2": "GitHub Assistant",
+     "option_3": "CodeMate",
+     "option_4": "DevBot",
+     "correct_answer": 1,
+     "category": "Today's AI tools",
+     "note": "GitHub Copilot, made with OpenAI, autocompletes code inside the editor.",
+     "source": "https://en.wikipedia.org/wiki/GitHub_Copilot"
+    },
+    {
+     "id": 63,
+     "question": "OpenAI's Sora generates what from a text description?",
+     "option_1": "Music",
+     "option_2": "Video",
+     "option_3": "Spreadsheets",
+     "option_4": "Websites",
+     "correct_answer": 2,
+     "category": "Today's AI tools",
+     "note": "Sora is OpenAI's text-to-video model, announced in 2024.",
+     "source": "https://en.wikipedia.org/wiki/Sora_(text-to-video_model)"
+    },
+    {
+     "id": 64,
+     "question": "ElevenLabs is best known for AI that creates realistic...",
+     "option_1": "Voices and speech",
+     "option_2": "3D buildings",
+     "option_3": "Weather forecasts",
+     "option_4": "Circuit boards",
+     "correct_answer": 1,
+     "category": "Today's AI tools",
+     "note": "ElevenLabs specializes in AI voice generation and text-to-speech.",
+     "source": "https://en.wikipedia.org/wiki/ElevenLabs"
+    },
+    {
+     "id": 65,
+     "question": "Google's NotebookLM can turn your documents into...",
+     "option_1": "Printed books",
+     "option_2": "An audio conversation, like a podcast",
+     "option_3": "A mobile game",
+     "option_4": "A cryptocurrency",
+     "correct_answer": 2,
+     "category": "Today's AI tools",
+     "note": "NotebookLM's Audio Overview feature makes a podcast-style discussion from your sources.",
+     "source": "https://en.wikipedia.org/wiki/NotebookLM"
+    },
+    {
+     "id": 66,
+     "question": "DeepL is a popular AI tool mainly for...",
+     "option_1": "Translation between languages",
+     "option_2": "Editing videos",
+     "option_3": "Tracking fitness",
+     "option_4": "Online banking",
+     "correct_answer": 1,
+     "category": "Today's AI tools",
+     "note": "DeepL is known for high-quality machine translation.",
+     "source": "https://en.wikipedia.org/wiki/DeepL"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "questions": [
+    {
+     "id": 67,
+     "question": "A chatbot gives you a link to a research paper. Before citing it, you should...",
+     "option_1": "Trust it - AI does not make mistakes",
+     "option_2": "Check that the paper actually exists",
+     "option_3": "Share it immediately",
+     "option_4": "Pay for the chatbot first",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "AI chatbots can invent realistic-looking references that do not exist.",
+     "source": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)"
+    },
+    {
+     "id": 68,
+     "question": "An \"AI detector\" claims a student's essay was written by AI. You should treat that verdict as...",
+     "option_1": "Always correct",
+     "option_2": "Unreliable - detectors can be wrong both ways",
+     "option_3": "Illegal",
+     "option_4": "Proof beyond doubt",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "OpenAI itself shut down its AI-writing detector in 2023 for low accuracy.",
+     "source": "https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/"
+    },
+    {
+     "id": 69,
+     "question": "Why do many companies ban staff from pasting confidential data into public chatbots?",
+     "option_1": "It uses too much paper",
+     "option_2": "The data could leak or be stored outside the company",
+     "option_3": "Chatbots charge per word",
+     "option_4": "It breaks the keyboard",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "Samsung banned staff use of ChatGPT and similar tools after an internal data leak in 2023.",
+     "source": "https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/"
+    },
+    {
+     "id": 70,
+     "question": "For questions about today's weather or breaking news, a chatbot without live internet access may...",
+     "option_1": "Always be right",
+     "option_2": "Give outdated answers - check a live source",
+     "option_3": "Refuse to speak",
+     "option_4": "Only answer at night",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "Training data stops at a cut-off date, so models can miss recent events unless they search the web.",
+     "source": "https://en.wikipedia.org/wiki/ChatGPT#Limitations"
+    },
+    {
+     "id": 71,
+     "question": "Which habit gets you better answers from an AI chatbot?",
+     "option_1": "Writing one vague word",
+     "option_2": "Giving clear context, audience and format in your prompt",
+     "option_3": "Typing in all caps",
+     "option_4": "Asking the same thing repeatedly",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "Specific prompts with context and instructions produce better results.",
+     "source": "https://en.wikipedia.org/wiki/Prompt_engineering"
+    },
+    {
+     "id": 72,
+     "question": "Before acting on an AI chatbot's summary of a long legal or financial document, you should...",
+     "option_1": "Delete the original",
+     "option_2": "Spot-check key details against the original document",
+     "option_3": "Frame the summary",
+     "option_4": "Pay double",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "Summaries can miss or misstate details; important decisions need the original text.",
+     "source": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "questions": [
+    {
+     "id": 73,
+     "question": "The European Union's landmark law regulating AI is called...",
+     "option_1": "The AI Act",
+     "option_2": "The Robot Bill",
+     "option_3": "The Digital Constitution",
+     "option_4": "The Algorithm Treaty",
+     "correct_answer": 1,
+     "category": "AI in the world",
+     "note": "The EU AI Act entered into force in August 2024 - the first major AI law of its kind.",
+     "source": "https://en.wikipedia.org/wiki/Artificial_Intelligence_Act"
+    },
+    {
+     "id": 74,
+     "question": "The 2025 AI Action Summit, where countries discussed AI governance, was held in which city?",
+     "option_1": "London",
+     "option_2": "Paris",
+     "option_3": "Tokyo",
+     "option_4": "New York",
+     "correct_answer": 2,
+     "category": "AI in the world",
+     "note": "The AI Action Summit took place in Paris in February 2025.",
+     "source": "https://en.wikipedia.org/wiki/AI_Action_Summit"
+    },
+    {
+     "id": 75,
+     "question": "In AI discussions, \"the singularity\" refers to...",
+     "option_1": "A black hole photo",
+     "option_2": "A hypothetical point when AI surpasses human intelligence",
+     "option_3": "The first computer ever built",
+     "option_4": "A single computer chip",
+     "correct_answer": 2,
+     "category": "AI in the world",
+     "note": "The idea is associated with writers like Vernor Vinge and Ray Kurzweil.",
+     "source": "https://en.wikipedia.org/wiki/Technological_singularity"
+    },
+    {
+     "id": 76,
+     "question": "The 2018 Turing Award went to Hinton, LeCun and Bengio for breakthroughs in...",
+     "option_1": "Deep learning",
+     "option_2": "Quantum computing",
+     "option_3": "Battery design",
+     "option_4": "Space travel",
+     "correct_answer": 1,
+     "category": "AI in the world",
+     "note": "The trio's deep learning work underpins much of modern AI.",
+     "source": "https://en.wikipedia.org/wiki/Turing_Award"
+    },
+    {
+     "id": 77,
+     "question": "The US Copyright Office has said that works created entirely by AI, without human authorship...",
+     "option_1": "Can be copyrighted by the AI",
+     "option_2": "Cannot be copyrighted",
+     "option_3": "Belong to the government",
+     "option_4": "Are banned from the internet",
+     "correct_answer": 2,
+     "category": "AI in the world",
+     "note": "Its 2023 guidance says copyright requires human authorship.",
+     "source": "https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright"
+    },
+    {
+     "id": 78,
+     "question": "India's national program to boost AI computing, startups and research is called...",
+     "option_1": "Digital Rupee",
+     "option_2": "IndiaAI Mission",
+     "option_3": "Operation Neural",
+     "option_4": "Project Silicon India",
+     "correct_answer": 2,
+     "category": "AI in the world",
+     "note": "The IndiaAI Mission was approved in March 2024 with an outlay of Rs 10,372 crore.",
+     "source": "https://indiaai.gov.in/news/cabinet-approves-india-ai-mission-at-an-outlay-of-rs-10-372-crore"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "questions": [
+    {
+     "id": 79,
+     "question": "In the 2013 film \"Her\", the character Samantha is...",
+     "option_1": "A spaceship captain",
+     "option_2": "An AI operating system the hero falls in love with",
+     "option_3": "A journalist",
+     "option_4": "A robot dog",
+     "correct_answer": 2,
+     "category": "Fun & culture",
+     "note": "Her won the Oscar for Best Original Screenplay.",
+     "source": "https://en.wikipedia.org/wiki/Her_(2013_film)"
+    },
+    {
+     "id": 80,
+     "question": "The four-legged robot \"Spot\" is made by which company?",
+     "option_1": "Boston Dynamics",
+     "option_2": "Sony",
+     "option_3": "Honda",
+     "option_4": "Samsung",
+     "correct_answer": 1,
+     "category": "Fun & culture",
+     "note": "Spot is Boston Dynamics' agile robot dog.",
+     "source": "https://en.wikipedia.org/wiki/Spot_(robot)"
+    },
+    {
+     "id": 81,
+     "question": "In Star Wars, which golden droid is \"fluent in over six million forms of communication\"?",
+     "option_1": "R2-D2",
+     "option_2": "BB-8",
+     "option_3": "C-3PO",
+     "option_4": "K-2SO",
+     "correct_answer": 3,
+     "category": "Fun & culture",
+     "note": "C-3PO is a protocol droid built, in the story, by Anakin Skywalker.",
+     "source": "https://en.wikipedia.org/wiki/C-3PO"
+    },
+    {
+     "id": 82,
+     "question": "The 2022 horror film \"M3GAN\" is about...",
+     "option_1": "A lifelike AI doll that becomes dangerous",
+     "option_2": "A haunted house",
+     "option_3": "A shark attack",
+     "option_4": "A space station",
+     "correct_answer": 1,
+     "category": "Fun & culture",
+     "note": "M3GAN's creepy dancing robot doll became an internet meme before release.",
+     "source": "https://en.wikipedia.org/wiki/M3GAN"
+    },
+    {
+     "id": 83,
+     "question": "The original American female voice of Apple's Siri belongs to which voice actress?",
+     "option_1": "Scarlett Johansson",
+     "option_2": "Susan Bennett",
+     "option_3": "Siri herself",
+     "option_4": "Alexa",
+     "correct_answer": 2,
+     "category": "Fun & culture",
+     "note": "Susan Bennett revealed in 2013 that her recordings became Siri's original US voice.",
+     "source": "https://en.wikipedia.org/wiki/Susan_Bennett"
+    },
+    {
+     "id": 84,
+     "question": "Baymax, the inflatable healthcare robot, appears in which animated film?",
+     "option_1": "Big Hero 6",
+     "option_2": "WALL-E",
+     "option_3": "Robots",
+     "option_4": "The Iron Giant",
+     "correct_answer": 1,
+     "category": "Fun & culture",
+     "note": "Baymax won hearts in Disney's Big Hero 6 (2014).",
+     "source": "https://en.wikipedia.org/wiki/Baymax"
+    }
+   ]
   }
  ]
 }
