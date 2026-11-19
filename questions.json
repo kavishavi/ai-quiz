@@ -1077,6 +1077,545 @@
      "source": "https://en.wikipedia.org/wiki/Baymax"
     }
    ]
+  },
+  {
+   "date": "2026-11-24",
+   "questions": [
+    {
+     "id": 85,
+     "question": "What is an \"algorithm\"?",
+     "option_1": "A type of computer chip",
+     "option_2": "A programming language",
+     "option_3": "An internet cable standard",
+     "option_4": "A set of step-by-step instructions a computer follows",
+     "correct_answer": 4,
+     "category": "AI basics",
+     "note": "The word comes from the Persian mathematician al-Khwarizmi, whose name was Latinized as 'Algoritmi'.",
+     "source": "https://en.wikipedia.org/wiki/Algorithm"
+    },
+    {
+     "id": 86,
+     "question": "In AI, what does \"NLP\" stand for?",
+     "option_1": "New Learning Program",
+     "option_2": "Natural Language Processing",
+     "option_3": "Neural Link Protocol",
+     "option_4": "Network Layer Protection",
+     "correct_answer": 2,
+     "category": "AI basics",
+     "note": "NLP is the processing of natural language information by a computer - it powers translation, chatbots and voice assistants.",
+     "source": "https://en.wikipedia.org/wiki/Natural_language_processing"
+    },
+    {
+     "id": 87,
+     "question": "What is a \"chatbot\"?",
+     "option_1": "A robot that delivers food",
+     "option_2": "A tool that blocks spam messages",
+     "option_3": "A software application designed to converse through text or speech",
+     "option_4": "A small piece of computer hardware",
+     "correct_answer": 3,
+     "category": "AI basics",
+     "note": "Chatbots act as conversation partners; early ones like ELIZA date back to the 1960s.",
+     "source": "https://en.wikipedia.org/wiki/Chatbot"
+    },
+    {
+     "id": 88,
+     "question": "In \"supervised learning\", a model learns from...",
+     "option_1": "Random guesses with no feedback",
+     "option_2": "Watching humans at work",
+     "option_3": "Example input-output pairs with known correct answers",
+     "option_4": "Reading instruction manuals",
+     "correct_answer": 3,
+     "category": "AI basics",
+     "note": "Supervised learning maps inputs to outputs based on example pairs - like photos labeled 'cat' or 'dog'.",
+     "source": "https://en.wikipedia.org/wiki/Supervised_learning"
+    },
+    {
+     "id": 89,
+     "question": "\"Computer vision\" is the AI field that works with...",
+     "option_1": "Sound recordings",
+     "option_2": "Images and video",
+     "option_3": "Spreadsheets",
+     "option_4": "Weather data only",
+     "correct_answer": 2,
+     "category": "AI basics",
+     "note": "Computer vision covers acquiring, processing and understanding digital images - used in face unlock and self-driving cars.",
+     "source": "https://en.wikipedia.org/wiki/Computer_vision"
+    },
+    {
+     "id": 90,
+     "question": "When you talk to a voice assistant, \"speech recognition\" is the step that...",
+     "option_1": "Makes the voice sound friendly",
+     "option_2": "Guesses your mood",
+     "option_3": "Connects the device to Wi-Fi",
+     "option_4": "Turns spoken language into text",
+     "correct_answer": 4,
+     "category": "AI basics",
+     "note": "Speech recognition (also called speech-to-text) translates spoken language into text the system can process.",
+     "source": "https://en.wikipedia.org/wiki/Speech_recognition"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "questions": [
+    {
+     "id": 91,
+     "question": "Shakey, built at Stanford Research Institute in the late 1960s, was the first...",
+     "option_1": "General-purpose mobile robot able to reason about its own actions",
+     "option_2": "Computer to play chess",
+     "option_3": "AI to pass the Turing Test",
+     "option_4": "Home vacuum robot",
+     "correct_answer": 1,
+     "category": "Milestones",
+     "note": "Shakey could analyze commands and break them into steps by itself - a landmark in robotics and AI.",
+     "source": "https://en.wikipedia.org/wiki/Shakey_the_Robot"
+    },
+    {
+     "id": 92,
+     "question": "DeepMind's AlphaGo Zero (2017) learned to play Go mainly by...",
+     "option_1": "Playing against itself, without human game data",
+     "option_2": "Studying millions of human games",
+     "option_3": "Reading Go rulebooks",
+     "option_4": "Copying the original AlphaGo's memory",
+     "correct_answer": 1,
+     "category": "Milestones",
+     "note": "AlphaGo Zero was created without data from human games and became stronger than any previous version.",
+     "source": "https://en.wikipedia.org/wiki/AlphaGo_Zero"
+    },
+    {
+     "id": 93,
+     "question": "Frank Rosenblatt's \"Perceptron\", an early neural network, dates from which decade?",
+     "option_1": "1950s",
+     "option_2": "1930s",
+     "option_3": "1970s",
+     "option_4": "1990s",
+     "correct_answer": 1,
+     "category": "Milestones",
+     "note": "Rosenblatt developed the Perceptron at Cornell starting in 1957 and described it in a 1958 paper.",
+     "source": "https://en.wikipedia.org/wiki/Perceptron"
+    },
+    {
+     "id": 94,
+     "question": "In 2017, DeepMind's AlphaZero taught itself chess in hours and then defeated which top chess program?",
+     "option_1": "Deep Blue",
+     "option_2": "Fritz",
+     "option_3": "Stockfish",
+     "option_4": "Hydra",
+     "correct_answer": 3,
+     "category": "Milestones",
+     "note": "With about 8 hours of training, AlphaZero outperformed AlphaGo Lee and also beat top chess and shogi programs.",
+     "source": "https://en.wikipedia.org/wiki/AlphaZero"
+    },
+    {
+     "id": 95,
+     "question": "OpenAI released GPT-4 in which month and year?",
+     "option_1": "March 2023",
+     "option_2": "November 2022",
+     "option_3": "January 2025",
+     "option_4": "June 2020",
+     "correct_answer": 1,
+     "category": "Milestones",
+     "note": "GPT-4 was released on March 14, 2023, and was quickly integrated into products like Bing Chat.",
+     "source": "https://en.wikipedia.org/wiki/GPT-4"
+    },
+    {
+     "id": 96,
+     "question": "DENDRAL, a Stanford project from the 1960s, is remembered as the first...",
+     "option_1": "Video game AI",
+     "option_2": "Search engine",
+     "option_3": "Social network",
+     "option_4": "Expert system",
+     "correct_answer": 4,
+     "category": "Milestones",
+     "note": "DENDRAL automated the decision-making of organic chemists, and is considered the first expert system.",
+     "source": "https://en.wikipedia.org/wiki/Dendral"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "questions": [
+    {
+     "id": 97,
+     "question": "\"Gradient descent\", a core training method in AI, is used to...",
+     "option_1": "Compress images for storage",
+     "option_2": "Translate code into binary",
+     "option_3": "Cool down overheating chips",
+     "option_4": "Step by step find settings that minimize the model's error",
+     "correct_answer": 4,
+     "category": "How AI works",
+     "note": "Gradient descent is an optimization method - like walking downhill until you reach the lowest error.",
+     "source": "https://en.wikipedia.org/wiki/Gradient_descent"
+    },
+    {
+     "id": 98,
+     "question": "\"Unsupervised learning\" finds patterns in data that is...",
+     "option_1": "Hand-labeled by experts",
+     "option_2": "Encrypted",
+     "option_3": "Without labels",
+     "option_4": "Older than 10 years",
+     "correct_answer": 3,
+     "category": "How AI works",
+     "note": "Unlike supervised learning, unsupervised learning works on unlabeled data - for example, grouping similar customers.",
+     "source": "https://en.wikipedia.org/wiki/Unsupervised_learning"
+    },
+    {
+     "id": 99,
+     "question": "Why are GPUs so important for training modern AI models?",
+     "option_1": "They use less electricity than any chip",
+     "option_2": "They handle the huge parallel math of training much faster",
+     "option_3": "They store more text than hard drives",
+     "option_4": "They connect models to the internet",
+     "correct_answer": 2,
+     "category": "How AI works",
+     "note": "GPUs were built for graphics, but their linear-algebra acceleration turned out to be ideal for AI model training.",
+     "source": "https://en.wikipedia.org/wiki/Graphics_processing_unit"
+    },
+    {
+     "id": 100,
+     "question": "\"Transfer learning\" in AI means...",
+     "option_1": "Moving a model to a bigger computer",
+     "option_2": "Reusing knowledge learned on one task for a related task",
+     "option_3": "Copying a model's code to another country",
+     "option_4": "Translating training data into another language",
+     "correct_answer": 2,
+     "category": "How AI works",
+     "note": "Transfer learning boosts performance on a new task using knowledge from a task the model already learned.",
+     "source": "https://en.wikipedia.org/wiki/Transfer_learning"
+    },
+    {
+     "id": 101,
+     "question": "\"Backpropagation\" is the method that...",
+     "option_1": "Backs up a model's files",
+     "option_2": "Deletes bad training data",
+     "option_3": "Translates outputs back into English",
+     "option_4": "Computes how to update a neural network's parameters during training",
+     "correct_answer": 4,
+     "category": "How AI works",
+     "note": "Backpropagation computes gradients so training can adjust each parameter to reduce the network's errors.",
+     "source": "https://en.wikipedia.org/wiki/Backpropagation"
+    },
+    {
+     "id": 102,
+     "question": "In modern AI models, the \"attention\" mechanism lets a model...",
+     "option_1": "Stay awake during long tasks",
+     "option_2": "Detect when users are distracted",
+     "option_3": "Charge per minute of use",
+     "option_4": "Weigh how important each part of the input is relative to the others",
+     "correct_answer": 4,
+     "category": "How AI works",
+     "note": "Attention determines the importance of each component in a sequence - it is the key idea behind Transformers.",
+     "source": "https://en.wikipedia.org/wiki/Attention_(machine_learning)"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "questions": [
+    {
+     "id": 103,
+     "question": "Character.ai is best known for letting users chat with...",
+     "option_1": "Live customer support agents",
+     "option_2": "Famous paintings",
+     "option_3": "Retro video game consoles",
+     "option_4": "Customizable AI \"characters\" with their own personalities",
+     "correct_answer": 4,
+     "category": "Today's AI tools",
+     "note": "Users can create characters, craft their personalities, and publish them for others to chat with.",
+     "source": "https://en.wikipedia.org/wiki/Character.ai"
+    },
+    {
+     "id": 104,
+     "question": "The AI tool Midjourney generates what from text descriptions?",
+     "option_1": "Music",
+     "option_2": "Spreadsheets",
+     "option_3": "Images",
+     "option_4": "Podcast episodes",
+     "correct_answer": 3,
+     "category": "Today's AI tools",
+     "note": "Midjourney generates images from natural-language prompts, similar to OpenAI's DALL-E and Stable Diffusion.",
+     "source": "https://en.wikipedia.org/wiki/Midjourney"
+    },
+    {
+     "id": 105,
+     "question": "Grammarly is an AI assistant mainly for...",
+     "option_1": "Editing photos",
+     "option_2": "Managing passwords",
+     "option_3": "Booking travel",
+     "option_4": "Improving your writing",
+     "correct_answer": 4,
+     "category": "Today's AI tools",
+     "note": "Grammarly is an English-language writing assistant that checks grammar, spelling and style.",
+     "source": "https://en.wikipedia.org/wiki/Grammarly"
+    },
+    {
+     "id": 106,
+     "question": "Adobe's family of generative AI models for creative work is called...",
+     "option_1": "Firefly",
+     "option_2": "Photoshop AI",
+     "option_3": "Creative Bot",
+     "option_4": "Illustrator X",
+     "correct_answer": 1,
+     "category": "Today's AI tools",
+     "note": "Adobe Firefly is Adobe's set of generative AI models for creative production, part of its Sensei AI platform.",
+     "source": "https://en.wikipedia.org/wiki/Adobe_Firefly"
+    },
+    {
+     "id": 107,
+     "question": "Suno is an AI platform that generates...",
+     "option_1": "Weather forecasts",
+     "option_2": "Music, including songs with vocals",
+     "option_3": "Legal contracts",
+     "option_4": "3D-printed objects",
+     "correct_answer": 2,
+     "category": "Today's AI tools",
+     "note": "Suno is a generative AI music platform that creates songs with vocals and instrumentation from text prompts.",
+     "source": "https://en.wikipedia.org/wiki/Suno_AI"
+    },
+    {
+     "id": 108,
+     "question": "Stable Diffusion, the popular open text-to-image model, is the flagship product of which company?",
+     "option_1": "Meta",
+     "option_2": "Stability AI",
+     "option_3": "OpenAI",
+     "option_4": "Adobe",
+     "correct_answer": 2,
+     "category": "Today's AI tools",
+     "note": "Stable Diffusion, released in 2022, is Stability AI's premier product and part of the ongoing AI boom.",
+     "source": "https://en.wikipedia.org/wiki/Stable_Diffusion"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "questions": [
+    {
+     "id": 109,
+     "question": "A \"prompt injection\" attack tricks an AI system by...",
+     "option_1": "Cutting its power supply",
+     "option_2": "Typing very fast",
+     "option_3": "Using an outdated browser",
+     "option_4": "Hiding malicious instructions in content the AI reads",
+     "correct_answer": 4,
+     "category": "Using AI well",
+     "note": "Innocuous-looking inputs are crafted to make the model ignore its safeguards - a real cybersecurity risk for AI apps.",
+     "source": "https://en.wikipedia.org/wiki/Prompt_injection"
+    },
+    {
+     "id": 110,
+     "question": "\"Algorithmic bias\" means an AI system can...",
+     "option_1": "Repeatedly produce unfair outcomes favoring one group",
+     "option_2": "Run slower over time",
+     "option_3": "Refuse to work at night",
+     "option_4": "Use more memory than allowed",
+     "correct_answer": 1,
+     "category": "Using AI well",
+     "note": "Algorithmic bias is a systematic, repeatable tendency toward unfair outcomes - often inherited from biased training data.",
+     "source": "https://en.wikipedia.org/wiki/Algorithmic_bias"
+    },
+    {
+     "id": 111,
+     "question": "The World Health Organization has cautioned that health answers from AI chatbots...",
+     "option_1": "Are always accurate",
+     "option_2": "Can look authoritative yet be completely wrong, so use them carefully",
+     "option_3": "Are illegal to read",
+     "option_4": "Only work in English",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "WHO warns that LLM responses can appear plausible but contain serious errors, especially for health topics.",
+     "source": "https://www.who.int/news/item/16-05-2023-who-calls-for-safe-and-ethical-ai-for-health"
+    },
+    {
+     "id": 112,
+     "question": "The \"ELIZA effect\" describes people's tendency to...",
+     "option_1": "Type faster when chatting with a bot",
+     "option_2": "Project human understanding and empathy onto simple computer programs",
+     "option_3": "Forget their passwords",
+     "option_4": "Prefer robots over pets",
+     "correct_answer": 2,
+     "category": "Using AI well",
+     "note": "Named after the 1960s chatbot ELIZA, whose simple script still convinced some users it truly understood them.",
+     "source": "https://en.wikipedia.org/wiki/ELIZA_effect"
+    },
+    {
+     "id": 113,
+     "question": "In 2024, the US Federal Communications Commission ruled that robocalls using AI-generated voices are...",
+     "option_1": "Perfectly legal everywhere",
+     "option_2": "Allowed on weekends",
+     "option_3": "Only banned for political campaigns",
+     "option_4": "\"Artificial\" under the Telephone Consumer Protection Act, making them illegal",
+     "correct_answer": 4,
+     "category": "Using AI well",
+     "note": "The FCC's unanimous February 2024 ruling made AI-voice robocalls illegal under the TCPA.",
+     "source": "https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal"
+    },
+    {
+     "id": 114,
+     "question": "In 2024, the US Federal Trade Commission took action against companies for...",
+     "option_1": "Selling computers without keyboards",
+     "option_2": "Hiring too many engineers",
+     "option_3": "Using AI in deceptive ways, like fake reviews and false AI claims",
+     "option_4": "Refusing to use AI at all",
+     "correct_answer": 3,
+     "category": "Using AI well",
+     "note": "The FTC said there is \"no AI exemption\" from the law - it settled with firms over fake-review tools and deceptive AI claims.",
+     "source": "https://www.reuters.com/technology/artificial-intelligence/ftc-announces-crackdown-deceptive-ai-claims-schemes-2024-09-25/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "questions": [
+    {
+     "id": 115,
+     "question": "The US \"Take It Down Act\", signed in May 2025, targets...",
+     "option_1": "Pirated movies",
+     "option_2": "Spam email",
+     "option_3": "Non-consensual intimate images, including AI deepfakes",
+     "option_4": "Illegal streaming of sports",
+     "correct_answer": 3,
+     "category": "AI in the world",
+     "note": "The law addresses real photos and AI-created deepfakes, and requires platforms to remove such imagery.",
+     "source": "https://en.wikipedia.org/wiki/Take_It_Down_Act"
+    },
+    {
+     "id": 116,
+     "question": "In 2017, which country became the first in the world to appoint a minister for artificial intelligence?",
+     "option_1": "United Arab Emirates",
+     "option_2": "United States",
+     "option_3": "Japan",
+     "option_4": "United Kingdom",
+     "correct_answer": 1,
+     "category": "AI in the world",
+     "note": "The UAE appointed Omar Sultan Al Olama as Minister of State for AI - a world first.",
+     "source": "https://en.wikipedia.org/wiki/Omar_Sultan_Al_Olama"
+    },
+    {
+     "id": 117,
+     "question": "Why did AI pioneer Geoffrey Hinton resign from Google in 2023?",
+     "option_1": "To retire from public life",
+     "option_2": "To speak freely about the risks of AI",
+     "option_3": "To start a social network",
+     "option_4": "To join a film studio",
+     "correct_answer": 2,
+     "category": "AI in the world",
+     "note": "Hinton said he wanted to freely speak out about AI risks, and even said part of him regrets his life's work.",
+     "source": "https://en.wikipedia.org/wiki/Geoffrey_Hinton"
+    },
+    {
+     "id": 118,
+     "question": "The Stargate Project, announced in January 2025 by OpenAI, SoftBank, Oracle and MGX, plans to spend up to $500 billion on...",
+     "option_1": "A moon base",
+     "option_2": "Underwater internet cables",
+     "option_3": "AI data centers and infrastructure in the United States",
+     "option_4": "Flying cars",
+     "correct_answer": 3,
+     "category": "AI in the world",
+     "note": "Stargate LLC is a joint venture planning to build AI infrastructure in the US by 2029.",
+     "source": "https://en.wikipedia.org/wiki/Stargate_LLC"
+    },
+    {
+     "id": 119,
+     "question": "The \"Hiroshima AI Process\" is an initiative by which group of countries to coordinate AI governance?",
+     "option_1": "The G20",
+     "option_2": "NATO",
+     "option_3": "The G7",
+     "option_4": "OPEC",
+     "correct_answer": 3,
+     "category": "AI in the world",
+     "note": "The G7 launched the Hiroshima AI Process in 2023 to coordinate approaches to governing advanced AI systems.",
+     "source": "https://en.wikipedia.org/wiki/Hiroshima_AI_Process"
+    },
+    {
+     "id": 120,
+     "question": "In November 2021, UNESCO's member states adopted the first global standard on what?",
+     "option_1": "Cryptocurrency",
+     "option_2": "The ethics of artificial intelligence",
+     "option_3": "Space tourism",
+     "option_4": "Electric cars",
+     "correct_answer": 2,
+     "category": "AI in the world",
+     "note": "All 193 UNESCO member states adopted the Recommendation on the Ethics of Artificial Intelligence.",
+     "source": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-30",
+   "questions": [
+    {
+     "id": 121,
+     "question": "In Pixar's \"WALL-E\" (2008), the hero robot has spent centuries on a deserted Earth doing what job?",
+     "option_1": "Guarding a bank vault",
+     "option_2": "Delivering mail",
+     "option_3": "Compacting and cleaning up garbage",
+     "option_4": "Growing crops",
+     "correct_answer": 3,
+     "category": "Fun & culture",
+     "note": "WALL-E is the last working robot left to clean up an uninhabitable Earth in the year 2805.",
+     "source": "https://en.wikipedia.org/wiki/WALL-E"
+    },
+    {
+     "id": 122,
+     "question": "Photographer Boris Eldagsen made news in 2023 by refusing a Sony World Photography Award because...",
+     "option_1": "The prize money was too small",
+     "option_2": "His photo was lost",
+     "option_3": "His winning image was AI-generated",
+     "option_4": "He disagreed with the venue",
+     "correct_answer": 3,
+     "category": "Fun & culture",
+     "note": "Eldagsen entered an AI-made image to spark debate, then refused the prize, saying AI and photography should not compete.",
+     "source": "https://www.bbc.com/news/entertainment-arts-65296763"
+    },
+    {
+     "id": 123,
+     "question": "Courts in the US, UK, Australia and the EU all ruled that Stephen Thaler's AI system DABUS cannot be...",
+     "option_1": "Named as the inventor on a patent",
+     "option_2": "Sold to other companies",
+     "option_3": "Used before 9 AM",
+     "option_4": "Connected to the internet",
+     "correct_answer": 1,
+     "category": "Fun & culture",
+     "note": "Patent offices and courts held that only a natural person - a human - can be named as an inventor.",
+     "source": "https://en.wikipedia.org/wiki/DABUS"
+    },
+    {
+     "id": 124,
+     "question": "The Beatles' final song \"Now and Then\" (2023) used machine learning to...",
+     "option_1": "Extract John Lennon's voice from an old demo tape",
+     "option_2": "Write the lyrics",
+     "option_3": "Design the album cover",
+     "option_4": "Choose the release date",
+     "correct_answer": 1,
+     "category": "Fun & culture",
+     "note": "The audio-restoration technology was commissioned by Peter Jackson for his Get Back documentary.",
+     "source": "https://en.wikipedia.org/wiki/Now_and_Then_(Beatles_song)"
+    },
+    {
+     "id": 125,
+     "question": "Lil Miquela, a singer and social media personality with millions of followers, is actually...",
+     "option_1": "A virtual CGI character",
+     "option_2": "A twin act",
+     "option_3": "A stage name for a band of four",
+     "option_4": "A puppet",
+     "correct_answer": 1,
+     "category": "Fun & culture",
+     "note": "Miquela Sousa is a virtual influencer - a CGI character who markets real fashion brands.",
+     "source": "https://en.wikipedia.org/wiki/Lil_Miquela"
+    },
+    {
+     "id": 126,
+     "question": "Meta's AI agent CICERO made headlines in 2022 for reaching human-level performance in which strategy game?",
+     "option_1": "Chess",
+     "option_2": "Diplomacy",
+     "option_3": "Poker",
+     "option_4": "Monopoly",
+     "correct_answer": 2,
+     "category": "Fun & culture",
+     "note": "CICERO ranked in the top 10% of human players in Diplomacy, a game built on negotiation and natural language.",
+     "source": "https://ai.meta.com/research/cicero/"
+    }
+   ]
   }
  ]
 }
