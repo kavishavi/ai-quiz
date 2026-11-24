@@ -2155,6 +2155,545 @@
           "source": "https://en.wikipedia.org/wiki/Data_(Star_Trek)"
         }
       ]
+    },
+    {
+      "date": "2026-12-08",
+      "questions": [
+        {
+          "id": 169,
+          "question": "In machine learning, \"inference\" means...",
+          "option_1": "training the model on more data",
+          "option_2": "using a trained model to make predictions on new data",
+          "option_3": "labeling datasets by hand",
+          "option_4": "designing the model's architecture",
+          "correct_answer": 2,
+          "category": "AI basics",
+          "note": "Training happens first; inference is every answer the model gives afterwards.",
+          "source": "https://en.wikipedia.org/wiki/Machine_learning"
+        },
+        {
+          "id": 170,
+          "question": "What is an AI \"benchmark\"?",
+          "option_1": "a chip built for training models",
+          "option_2": "a company that funds AI labs",
+          "option_3": "a programming language for AI",
+          "option_4": "a standard test used to measure and compare model performance",
+          "correct_answer": 4,
+          "category": "AI basics",
+          "note": "Benchmarks like MMLU rank models, though good scores do not guarantee real-world skill.",
+          "source": "https://en.wikipedia.org/wiki/Benchmark_(computing)"
+        },
+        {
+          "id": 171,
+          "question": "In a chatbot's \"temperature\" setting, a higher temperature makes answers...",
+          "option_1": "more random and varied",
+          "option_2": "faster to generate",
+          "option_3": "more accurate",
+          "option_4": "longer every time",
+          "correct_answer": 1,
+          "category": "AI basics",
+          "note": "Temperature scales the softmax probabilities: low is predictable, high is creative.",
+          "source": "https://en.wikipedia.org/wiki/Softmax_function"
+        },
+        {
+          "id": 172,
+          "question": "A \"system prompt\" is...",
+          "option_1": "the first message a user sends",
+          "option_2": "the model's source code",
+          "option_3": "hidden instructions that set an AI assistant's behavior before the user types",
+          "option_4": "an error message shown at startup",
+          "correct_answer": 3,
+          "category": "AI basics",
+          "note": "Developers use system prompts to define tone, rules and persona.",
+          "source": "https://en.wikipedia.org/wiki/Prompt_injection"
+        },
+        {
+          "id": 173,
+          "question": "An \"open-weight\" AI model is one where...",
+          "option_1": "the model is free to use in an app",
+          "option_2": "the trained model weights are published for anyone to download and run",
+          "option_3": "the model's training data is fully public",
+          "option_4": "the model runs without any computer",
+          "correct_answer": 2,
+          "category": "AI basics",
+          "note": "Open weights is not full open source; training data and code may stay closed.",
+          "source": "https://en.wikipedia.org/wiki/Large_language_model"
+        },
+        {
+          "id": 174,
+          "question": "\"Artificial general intelligence\" (AGI) refers to...",
+          "option_1": "AI that beats humans at one board game",
+          "option_2": "any chatbot that passes the Turing test",
+          "option_3": "a robot body for AI software",
+          "option_4": "hypothetical AI matching human ability across most cognitive tasks",
+          "correct_answer": 4,
+          "category": "AI basics",
+          "note": "AGI remains a goal rather than a shipped product, and definitions vary.",
+          "source": "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "questions": [
+        {
+          "id": 175,
+          "question": "The Loebner Prize, held annually from 1991, offered awards for...",
+          "option_1": "chatbots judged most human-like in Turing-test-style conversations",
+          "option_2": "the fastest chess computer",
+          "option_3": "the most lifelike robot dog",
+          "option_4": "the largest neural network",
+          "correct_answer": 1,
+          "category": "Milestones",
+          "note": "Hugh Loebner's contest was often criticized but ran for nearly three decades.",
+          "source": "https://en.wikipedia.org/wiki/Loebner_Prize"
+        },
+        {
+          "id": 176,
+          "question": "The chatbot \"Eugene Goostman\" made headlines in 2014 by...",
+          "option_1": "beating the world chess champion",
+          "option_2": "writing a bestselling novel",
+          "option_3": "convincing a third of judges it was a 13-year-old Ukrainian boy in a Turing test event",
+          "option_4": "passing a university entrance exam",
+          "correct_answer": 3,
+          "category": "Milestones",
+          "note": "The claim that it \"passed\" the Turing test was widely disputed by AI researchers.",
+          "source": "https://en.wikipedia.org/wiki/Eugene_Goostman"
+        },
+        {
+          "id": 177,
+          "question": "The first \"AI winter\" of the 1970s began after...",
+          "option_1": "a famous robot uprising in a film",
+          "option_2": "funding cuts that followed critical reports like the Lighthill report",
+          "option_3": "the invention of the internet",
+          "option_4": "a global computer shortage",
+          "correct_answer": 2,
+          "category": "Milestones",
+          "note": "Hype had outrun results; large-scale funding returned only in the 1980s.",
+          "source": "https://en.wikipedia.org/wiki/AI_winter"
+        },
+        {
+          "id": 178,
+          "question": "MYCIN, an influential 1970s expert system, was designed to...",
+          "option_1": "play championship backgammon",
+          "option_2": "translate Russian into English",
+          "option_3": "control a Mars rover",
+          "option_4": "diagnose bacterial infections and recommend antibiotics",
+          "correct_answer": 4,
+          "category": "Milestones",
+          "note": "MYCIN's rule-based approach shaped later expert systems, though it was never used clinically.",
+          "source": "https://en.wikipedia.org/wiki/MYCIN"
+        },
+        {
+          "id": 179,
+          "question": "In 2019, the AI \"Pluribus\" became the first to beat top professionals in...",
+          "option_1": "six-player no-limit Texas hold'em poker",
+          "option_2": "the board game Go",
+          "option_3": "the quiz show Jeopardy!",
+          "option_4": "professional StarCraft II",
+          "correct_answer": 1,
+          "category": "Milestones",
+          "note": "Pluribus built on Libratus, which had beaten pros at two-player poker in 2017.",
+          "source": "https://en.wikipedia.org/wiki/Pluribus_(poker_bot)"
+        },
+        {
+          "id": 180,
+          "question": "Microsoft's 2016 chatbot \"Tay\" was shut down within about a day because...",
+          "option_1": "it became self-aware",
+          "option_2": "it crashed the stock market",
+          "option_3": "users taught it to post offensive tweets",
+          "option_4": "its servers overheated",
+          "correct_answer": 3,
+          "category": "Milestones",
+          "note": "Tay became the classic cautionary tale about learning from live public input.",
+          "source": "https://en.wikipedia.org/wiki/Tay_(chatbot)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "questions": [
+        {
+          "id": 181,
+          "question": "\"Chain-of-thought\" prompting improves AI answers by...",
+          "option_1": "shortening every question",
+          "option_2": "physically linking several models together",
+          "option_3": "removing the instructions",
+          "option_4": "asking the model to reason step by step before giving the final answer",
+          "correct_answer": 4,
+          "category": "How AI works",
+          "note": "Working through steps helps models on math and logic problems.",
+          "source": "https://en.wikipedia.org/wiki/Prompt_engineering"
+        },
+        {
+          "id": 182,
+          "question": "\"Retrieval-augmented generation\" (RAG) makes chatbot answers more reliable by...",
+          "option_1": "training the model twice as long",
+          "option_2": "fetching relevant documents and grounding the reply in them",
+          "option_3": "making every answer longer",
+          "option_4": "removing the need for sources",
+          "correct_answer": 2,
+          "category": "How AI works",
+          "note": "RAG lets a model use fresh or private data without retraining.",
+          "source": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation"
+        },
+        {
+          "id": 183,
+          "question": "In AI, \"knowledge distillation\" means...",
+          "option_1": "deleting random neurons to shrink a model",
+          "option_2": "cleaning the training data",
+          "option_3": "training a small model to mimic a larger, more capable one",
+          "option_4": "compressing the images used in training",
+          "correct_answer": 3,
+          "category": "How AI works",
+          "note": "Distilled \"student\" models run cheaper while keeping much of the teacher's skill.",
+          "source": "https://en.wikipedia.org/wiki/Knowledge_distillation"
+        },
+        {
+          "id": 184,
+          "question": "A decision tree makes predictions by...",
+          "option_1": "splitting the data through a series of yes/no-style questions",
+          "option_2": "simulating neurons in the brain",
+          "option_3": "searching the web for answers",
+          "option_4": "averaging many linear equations",
+          "correct_answer": 1,
+          "category": "How AI works",
+          "note": "Decision trees are among the oldest and most interpretable machine learning methods.",
+          "source": "https://en.wikipedia.org/wiki/Decision_tree_learning"
+        },
+        {
+          "id": 185,
+          "question": "\"Clustering\" in machine learning refers to...",
+          "option_1": "sorting labeled examples into known categories",
+          "option_2": "running models on many servers",
+          "option_3": "compressing large datasets",
+          "option_4": "grouping unlabeled data points by similarity",
+          "correct_answer": 4,
+          "category": "How AI works",
+          "note": "Clustering is unsupervised: it finds groups without being told the labels.",
+          "source": "https://en.wikipedia.org/wiki/Cluster_analysis"
+        },
+        {
+          "id": 186,
+          "question": "In AI, \"scaling laws\" describe...",
+          "option_1": "how quickly chips get faster each year",
+          "option_2": "how model performance predictably changes with compute, data and model size",
+          "option_3": "rules for enlarging images without blur",
+          "option_4": "limits on how many users a chatbot can serve",
+          "correct_answer": 2,
+          "category": "How AI works",
+          "note": "The \"Chinchilla\" result showed many large models were undertrained for their size.",
+          "source": "https://en.wikipedia.org/wiki/Large_language_model"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "questions": [
+        {
+          "id": 187,
+          "question": "Runway is an AI company best known for tools that...",
+          "option_1": "transcribe podcasts",
+          "option_2": "detect malware",
+          "option_3": "generate and edit video",
+          "option_4": "manage cloud servers",
+          "correct_answer": 3,
+          "category": "Today's AI tools",
+          "note": "Runway's Gen-series video models are widely used by filmmakers.",
+          "source": "https://en.wikipedia.org/wiki/Runway_(company)"
+        },
+        {
+          "id": 188,
+          "question": "Hugging Face is best known as...",
+          "option_1": "a hub where people share AI models and datasets",
+          "option_2": "a social network for robots",
+          "option_3": "an AI chip manufacturer",
+          "option_4": "a video game studio",
+          "correct_answer": 1,
+          "category": "Today's AI tools",
+          "note": "Its Transformers library made powerful models easy for developers to use.",
+          "source": "https://en.wikipedia.org/wiki/Hugging_Face"
+        },
+        {
+          "id": 189,
+          "question": "Replika is an AI app best known as...",
+          "option_1": "a code generator for developers",
+          "option_2": "a video editing suite",
+          "option_3": "a price-comparison engine",
+          "option_4": "a companion chatbot designed to be a personal AI friend",
+          "correct_answer": 4,
+          "category": "Today's AI tools",
+          "note": "Replika, launched in 2017, is built around ongoing conversation with one personal AI.",
+          "source": "https://en.wikipedia.org/wiki/Replika"
+        },
+        {
+          "id": 190,
+          "question": "OpenAI's Whisper is a system for...",
+          "option_1": "generating music",
+          "option_2": "automatic speech recognition, turning speech into text",
+          "option_3": "summarizing books",
+          "option_4": "filtering spam",
+          "correct_answer": 2,
+          "category": "Today's AI tools",
+          "note": "Whisper was trained on 680,000 hours of multilingual audio.",
+          "source": "https://en.wikipedia.org/wiki/Whisper_(speech_recognition_system)"
+        },
+        {
+          "id": 191,
+          "question": "Synthesia is a service that creates videos featuring...",
+          "option_1": "animated cartoon animals",
+          "option_2": "live drone footage",
+          "option_3": "realistic AI avatars speaking typed text",
+          "option_4": "auto-designed slide decks",
+          "correct_answer": 3,
+          "category": "Today's AI tools",
+          "note": "Businesses use Synthesia avatars for training and marketing videos.",
+          "source": "https://en.wikipedia.org/wiki/Synthesia_(company)"
+        },
+        {
+          "id": 192,
+          "question": "Grok is an AI chatbot built by which company?",
+          "option_1": "xAI, Elon Musk's AI company, integrated with X",
+          "option_2": "Meta",
+          "option_3": "Google DeepMind",
+          "option_4": "Amazon",
+          "correct_answer": 1,
+          "category": "Today's AI tools",
+          "note": "Grok launched in 2023 and is woven into the X platform.",
+          "source": "https://en.wikipedia.org/wiki/Grok_(chatbot)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "questions": [
+        {
+          "id": 193,
+          "question": "Why can the same question get slightly different answers from a chatbot?",
+          "option_1": "the model is broken",
+          "option_2": "answers are generated probabilistically, not looked up from a fixed script",
+          "option_3": "the model checks who is asking",
+          "option_4": "the servers are busy",
+          "correct_answer": 2,
+          "category": "Using AI well",
+          "note": "Sampling from probabilities means some variation is normal.",
+          "source": "https://en.wikipedia.org/wiki/Large_language_model"
+        },
+        {
+          "id": 194,
+          "question": "In a \"data poisoning\" attack, attackers try to...",
+          "option_1": "steal passwords through email",
+          "option_2": "overload servers with traffic",
+          "option_3": "clone a user's voice",
+          "option_4": "corrupt a model by manipulating its training data",
+          "correct_answer": 4,
+          "category": "Using AI well",
+          "note": "Poisoned data can plant backdoors or skew a model's behavior.",
+          "source": "https://en.wikipedia.org/wiki/Adversarial_machine_learning"
+        },
+        {
+          "id": 195,
+          "question": "\"Red-teaming\" an AI model means...",
+          "option_1": "deliberately probing it to find harmful behaviors before release",
+          "option_2": "painting the servers red",
+          "option_3": "hiring the loudest critics",
+          "option_4": "testing only on easy questions",
+          "correct_answer": 1,
+          "category": "Using AI well",
+          "note": "Labs run red-team exercises to expose jailbreaks and safety gaps.",
+          "source": "https://en.wikipedia.org/wiki/AI_alignment"
+        },
+        {
+          "id": 196,
+          "question": "The C2PA standard helps people check AI-generated media by...",
+          "option_1": "banning AI images online",
+          "option_2": "paying artists automatically",
+          "option_3": "attaching tamper-evident provenance metadata to content",
+          "option_4": "shrinking file sizes",
+          "correct_answer": 3,
+          "category": "Using AI well",
+          "note": "Content Credentials record where and how a piece of media was made.",
+          "source": "https://en.wikipedia.org/wiki/C2PA"
+        },
+        {
+          "id": 197,
+          "question": "\"AI slop\" refers to...",
+          "option_1": "code that makes models run faster",
+          "option_2": "low-quality AI-generated content flooding the internet",
+          "option_3": "errors inside quantum chips",
+          "option_4": "leftover training data",
+          "correct_answer": 2,
+          "category": "Using AI well",
+          "note": "The term went mainstream in 2024 as feeds filled with mass-produced AI media.",
+          "source": "https://en.wikipedia.org/wiki/Slop_(artificial_intelligence)"
+        },
+        {
+          "id": 198,
+          "question": "When a chatbot refuses a harmful request, that behavior is...",
+          "option_1": "a bug in the model",
+          "option_2": "a sign the model is offline",
+          "option_3": "the model's own moral choice",
+          "option_4": "an intended safety feature built in during alignment training",
+          "correct_answer": 4,
+          "category": "Using AI well",
+          "note": "Alignment work teaches models when saying no is the right answer.",
+          "source": "https://en.wikipedia.org/wiki/AI_alignment"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-13",
+      "questions": [
+        {
+          "id": 199,
+          "question": "The Global Partnership on Artificial Intelligence (GPAI) is...",
+          "option_1": "an international initiative to guide responsible AI development",
+          "option_2": "a company selling AI chips",
+          "option_3": "a United Nations peacekeeping unit",
+          "option_4": "a chatbot competition",
+          "correct_answer": 1,
+          "category": "AI in the world",
+          "note": "GPAI was founded in 2020 and now works closely with the OECD.",
+          "source": "https://en.wikipedia.org/wiki/Global_Partnership_on_Artificial_Intelligence"
+        },
+        {
+          "id": 200,
+          "question": "In March 2024, the UN General Assembly adopted its first resolution on AI, which...",
+          "option_1": "banned AI research worldwide",
+          "option_2": "created a global AI police force",
+          "option_3": "urged safe, trustworthy AI that benefits all countries",
+          "option_4": "imposed a tax on tech companies",
+          "correct_answer": 3,
+          "category": "AI in the world",
+          "note": "The US-led resolution passed by consensus with more than 120 co-sponsors.",
+          "source": "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence"
+        },
+        {
+          "id": 201,
+          "question": "The UK AI Safety Institute, founded in 2023, was created to...",
+          "option_1": "fund British AI startups",
+          "option_2": "regulate social media",
+          "option_3": "teach coding in schools",
+          "option_4": "test and evaluate advanced AI models for risks",
+          "correct_answer": 4,
+          "category": "AI in the world",
+          "note": "It was the world's first state-backed institute for testing advanced AI.",
+          "source": "https://en.wikipedia.org/wiki/AI_Safety_Institute"
+        },
+        {
+          "id": 202,
+          "question": "In 2024, the African Union adopted...",
+          "option_1": "a ban on chatbots",
+          "option_2": "a continental strategy for responsible AI across Africa",
+          "option_3": "its own social network",
+          "option_4": "a shared cryptocurrency",
+          "correct_answer": 2,
+          "category": "AI in the world",
+          "note": "The strategy guides member states on AI governance and capacity building.",
+          "source": "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence"
+        },
+        {
+          "id": 203,
+          "question": "China's 2023 interim measures for generative AI require services to...",
+          "option_1": "follow content rules and file with regulators before public release",
+          "option_2": "share all their code publicly",
+          "option_3": "shut down after one year",
+          "option_4": "use only Chinese training data",
+          "correct_answer": 1,
+          "category": "AI in the world",
+          "note": "The measures took effect in August 2023.",
+          "source": "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence"
+        },
+        {
+          "id": 204,
+          "question": "The global AI summit held in Paris in February 2025 was called the...",
+          "option_1": "AI Safety Summit",
+          "option_2": "World AI Forum",
+          "option_3": "AI Action Summit",
+          "option_4": "Global AI Accord",
+          "correct_answer": 3,
+          "category": "AI in the world",
+          "note": "It followed Bletchley Park (2023) and Seoul (2024) as the third global AI summit.",
+          "source": "https://en.wikipedia.org/wiki/AI_Action_Summit"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-14",
+      "questions": [
+        {
+          "id": 205,
+          "question": "In \"Blade Runner\", the Voight-Kampff test is used to...",
+          "option_1": "test spaceship pilots",
+          "option_2": "grade police officers",
+          "option_3": "identify aliens",
+          "option_4": "detect replicants by measuring emotional responses",
+          "correct_answer": 4,
+          "category": "Fun & culture",
+          "note": "The fictional test is still invoked in real-world AI discussions.",
+          "source": "https://en.wikipedia.org/wiki/Blade_Runner"
+        },
+        {
+          "id": 206,
+          "question": "In \"RoboCop\" (1987), the hero is...",
+          "option_1": "a robot learning to feel love",
+          "option_2": "a murdered police officer rebuilt as a cyborg law enforcer",
+          "option_3": "an AI secretly controlling a city",
+          "option_4": "an android child",
+          "correct_answer": 2,
+          "category": "Fun & culture",
+          "note": "The film satirized corporate control of both policing and technology.",
+          "source": "https://en.wikipedia.org/wiki/RoboCop"
+        },
+        {
+          "id": 207,
+          "question": "GLaDOS is the passive-aggressive AI antagonist of which video game series?",
+          "option_1": "Halo",
+          "option_2": "BioShock",
+          "option_3": "Portal",
+          "option_4": "Doom",
+          "correct_answer": 3,
+          "category": "Fun & culture",
+          "note": "GLaDOS, voiced by Ellen McLain, runs Aperture Science's test chambers.",
+          "source": "https://en.wikipedia.org/wiki/GLaDOS"
+        },
+        {
+          "id": 208,
+          "question": "In \"The Matrix\", the machines use humans as...",
+          "option_1": "a source of bioelectric power",
+          "option_2": "entertainment in zoos",
+          "option_3": "soldiers in their army",
+          "option_4": "translators for alien languages",
+          "correct_answer": 1,
+          "category": "Fun & culture",
+          "note": "The film turned \"the red pill\" into a cultural shorthand.",
+          "source": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+        {
+          "id": 209,
+          "question": "In \"The Wild Robot\", the robot Roz...",
+          "option_1": "explores Mars for NASA",
+          "option_2": "fights in a robot war",
+          "option_3": "runs a smart city",
+          "option_4": "is shipwrecked on a wild island and learns to live among animals",
+          "correct_answer": 4,
+          "category": "Fun & culture",
+          "note": "Peter Brown's book became a DreamWorks animated film in 2024.",
+          "source": "https://en.wikipedia.org/wiki/The_Wild_Robot"
+        },
+        {
+          "id": 210,
+          "question": "Boston Dynamics' Atlas is best described as...",
+          "option_1": "a four-legged robotic dog",
+          "option_2": "a humanoid robot that can walk, run and jump",
+          "option_3": "a warehouse crane arm",
+          "option_4": "a self-driving car",
+          "correct_answer": 2,
+          "category": "Fun & culture",
+          "note": "Atlas's parkour demos went viral; an all-electric version debuted in 2024.",
+          "source": "https://en.wikipedia.org/wiki/Atlas_(robot)"
+        }
+      ]
     }
   ]
 }
