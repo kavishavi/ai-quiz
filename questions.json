@@ -2694,6 +2694,545 @@
           "source": "https://en.wikipedia.org/wiki/Atlas_(robot)"
         }
       ]
+    },
+    {
+      "date": "2026-12-15",
+      "questions": [
+        {
+          "id": 211,
+          "question": "How do streaming apps like Netflix and Spotify decide what to suggest next?",
+          "option_1": "human editors pick suggestions for you",
+          "option_2": "a random shuffle of popular content",
+          "option_3": "a recommender system trained on behavior",
+          "option_4": "a fixed ranked list set yearly",
+          "correct_answer": 3,
+          "category": "AI basics",
+          "note": "Recommendation engines use collaborative and content-based filtering to personalize feeds.",
+          "source": "https://en.wikipedia.org/wiki/Recommender_system"
+        },
+        {
+          "id": 212,
+          "question": "In AI, \"sentiment analysis\" means...",
+          "option_1": "judging if text sounds positive or negative",
+          "option_2": "checking a text for spelling mistakes carefully",
+          "option_3": "measuring how fast a model replies",
+          "option_4": "counting the words in a document",
+          "correct_answer": 1,
+          "category": "AI basics",
+          "note": "Companies use it to track reviews and social-media opinion at scale.",
+          "source": "https://en.wikipedia.org/wiki/Sentiment_analysis"
+        },
+        {
+          "id": 213,
+          "question": "In AI work, \"synthetic data\" is...",
+          "option_1": "data deleted accidentally",
+          "option_2": "data that failed repeated quality checks",
+          "option_3": "data typed in by users",
+          "option_4": "artificially generated training data",
+          "correct_answer": 4,
+          "category": "AI basics",
+          "note": "Synthetic data can protect privacy and fill gaps, but it must match real-world patterns.",
+          "source": "https://en.wikipedia.org/wiki/Synthetic_data"
+        },
+        {
+          "id": 214,
+          "question": "In machine learning, \"classification\" means...",
+          "option_1": "sorting files into alphabetical order",
+          "option_2": "predicting an input's category",
+          "option_3": "compressing data to save space",
+          "option_4": "grouping computers into networks",
+          "correct_answer": 2,
+          "category": "AI basics",
+          "note": "A classification algorithm maps input data, such as an email's word counts, to a category.",
+          "source": "https://en.wikipedia.org/wiki/Statistical_classification"
+        },
+        {
+          "id": 215,
+          "question": "A phone keyboard suggesting your next word is an everyday use of...",
+          "option_1": "speech recognition",
+          "option_2": "image classification",
+          "option_3": "language modeling",
+          "option_4": "data encryption keys",
+          "correct_answer": 3,
+          "category": "AI basics",
+          "note": "Autocomplete ranks likely continuations from common phrases and your typing history.",
+          "source": "https://en.wikipedia.org/wiki/Autocomplete"
+        },
+        {
+          "id": 216,
+          "question": "AI spam filters mainly work by...",
+          "option_1": "using statistics to flag junk mail",
+          "option_2": "blocking every email from strangers",
+          "option_3": "reading each mail aloud for review",
+          "option_4": "charging spammers a small fee",
+          "correct_answer": 1,
+          "category": "AI basics",
+          "note": "Anti-spam filters often use statistical classification such as the naive Bayes classifier.",
+          "source": "https://en.wikipedia.org/wiki/Email_filtering"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-16",
+      "questions": [
+        {
+          "id": 217,
+          "question": "Japan's Fifth Generation Computer Systems project, launched in 1982, aimed to build...",
+          "option_1": "the first personal computer",
+          "option_2": "a global telephone network",
+          "option_3": "the first home video-game console ever",
+          "option_4": "computers based on logic programming",
+          "correct_answer": 4,
+          "category": "Milestones",
+          "note": "The ambitious MITI project pushed parallel inference machines and Prolog.",
+          "source": "https://en.wikipedia.org/wiki/Fifth_Generation_Computer_Systems"
+        },
+        {
+          "id": 218,
+          "question": "In 2019, OpenAI Five defeated world-champion professionals at...",
+          "option_1": "the ancient board game Go",
+          "option_2": "the video game Dota 2",
+          "option_3": "the quiz show Jeopardy!",
+          "option_4": "professional StarCraft II matches",
+          "correct_answer": 2,
+          "category": "Milestones",
+          "note": "OpenAI Five trained by self-play and won back-to-back games against OG.",
+          "source": "https://en.wikipedia.org/wiki/OpenAI_Five"
+        },
+        {
+          "id": 219,
+          "question": "BERT, released by Google in 2018, improved language AI mainly by...",
+          "option_1": "reading text in both directions",
+          "option_2": "being the first chatbot ever sold",
+          "option_3": "translating speech in real time",
+          "option_4": "running without any training data",
+          "correct_answer": 1,
+          "category": "Milestones",
+          "note": "BERT's bidirectional pretraining set records on language-understanding benchmarks.",
+          "source": "https://en.wikipedia.org/wiki/BERT_(language_model)"
+        },
+        {
+          "id": 220,
+          "question": "DeepMind's MuZero (2020) mastered Go, chess, shogi and Atari...",
+          "option_1": "using only ten training games",
+          "option_2": "without any machine learning",
+          "option_3": "without being told the rules",
+          "option_4": "running on one laptop",
+          "correct_answer": 3,
+          "category": "Milestones",
+          "note": "MuZero learned a model of each game's dynamics as it played.",
+          "source": "https://en.wikipedia.org/wiki/MuZero"
+        },
+        {
+          "id": 221,
+          "question": "TD-Gammon, the 1992 program that reached top-level backgammon play, was built by...",
+          "option_1": "Herbert Simon at CMU",
+          "option_2": "Marvin Minsky at MIT",
+          "option_3": "Arthur Samuel at Stanford",
+          "option_4": "Gerald Tesauro at IBM",
+          "correct_answer": 4,
+          "category": "Milestones",
+          "note": "TD-Gammon learned by playing itself using temporal-difference learning.",
+          "source": "https://en.wikipedia.org/wiki/TD-Gammon"
+        },
+        {
+          "id": 222,
+          "question": "In 2007, researchers announced that checkers (English draughts) is...",
+          "option_1": "a win for the second player",
+          "option_2": "a draw with perfect play",
+          "option_3": "unsolvable by any computer at all",
+          "option_4": "a win for whoever moves first",
+          "correct_answer": 2,
+          "category": "Milestones",
+          "note": "Jonathan Schaeffer's team \"weakly solved\" checkers after 18 years of computation.",
+          "source": "https://en.wikipedia.org/wiki/English_draughts"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "questions": [
+        {
+          "id": 223,
+          "question": "During training, a model's \"loss\" measures...",
+          "option_1": "how wrong its predictions are",
+          "option_2": "how much memory it uses",
+          "option_3": "how fast it responds to queries",
+          "option_4": "how many users it serves daily",
+          "correct_answer": 1,
+          "category": "How AI works",
+          "note": "Training iteratively adjusts the model's weights to shrink the loss.",
+          "source": "https://en.wikipedia.org/wiki/Loss_function"
+        },
+        {
+          "id": 224,
+          "question": "In AI training, the \"learning rate\" controls...",
+          "option_1": "how much data it stores",
+          "option_2": "how quickly users get replies",
+          "option_3": "how big each model adjustment is",
+          "option_4": "the speed of the computer's clock",
+          "correct_answer": 3,
+          "category": "How AI works",
+          "note": "Too high can overshoot the best answer; too low makes training crawl.",
+          "source": "https://en.wikipedia.org/wiki/Learning_rate"
+        },
+        {
+          "id": 225,
+          "question": "A \"mixture of experts\" model saves compute by...",
+          "option_1": "asking human experts to label answers live",
+          "option_2": "activating only a few specialist subnetworks",
+          "option_3": "running every neuron for every token",
+          "option_4": "copying answers from other chatbots online",
+          "correct_answer": 2,
+          "category": "How AI works",
+          "note": "MoE models grow total capacity without paying full compute per token.",
+          "source": "https://en.wikipedia.org/wiki/Mixture_of_experts"
+        },
+        {
+          "id": 226,
+          "question": "In generative AI, a \"latent space\" is...",
+          "option_1": "a hidden folder full of training images",
+          "option_2": "the delay before a model answers",
+          "option_3": "a private chat room for AI agents",
+          "option_4": "a compressed numeric space for similar things",
+          "correct_answer": 4,
+          "category": "How AI works",
+          "note": "Models map inputs into latent vectors, then generate from points in that space.",
+          "source": "https://en.wikipedia.org/wiki/Latent_space"
+        },
+        {
+          "id": 227,
+          "question": "Why do machine-learning teams keep a \"test set\" separate from training data?",
+          "option_1": "to honestly measure unseen-data handling",
+          "option_2": "to make training run faster",
+          "option_3": "to hide errors from reviewers",
+          "option_4": "to keep a safe backup of the model's weights",
+          "correct_answer": 1,
+          "category": "How AI works",
+          "note": "Checking on unseen data guards against fooling yourself about accuracy.",
+          "source": "https://en.wikipedia.org/wiki/Training%2C_validation%2C_and_test_data_sets"
+        },
+        {
+          "id": 228,
+          "question": "When a language model uses \"beam search\", it...",
+          "option_1": "picks the single most likely next word",
+          "option_2": "searches the web for live sources",
+          "option_3": "keeps candidates and picks the best sequence",
+          "option_4": "translates text into several other languages",
+          "correct_answer": 3,
+          "category": "How AI works",
+          "note": "Beam search trades a little compute for more coherent output than greedy decoding.",
+          "source": "https://en.wikipedia.org/wiki/Beam_search"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "questions": [
+        {
+          "id": 229,
+          "question": "Cursor is best known as...",
+          "option_1": "a video-calling app",
+          "option_2": "an AI coding tool",
+          "option_3": "a music-streaming subscription service",
+          "option_4": "a photo-printing kiosk",
+          "correct_answer": 2,
+          "category": "Today's AI tools",
+          "note": "Cursor, from Anysphere, lets developers write code with natural-language instructions.",
+          "source": "https://en.wikipedia.org/wiki/Cursor_(code_editor)"
+        },
+        {
+          "id": 230,
+          "question": "Otter.ai is an AI service mainly used to...",
+          "option_1": "edit wedding photo albums",
+          "option_2": "design professional websites",
+          "option_3": "track fitness gym workouts",
+          "option_4": "transcribe meetings",
+          "correct_answer": 4,
+          "category": "Today's AI tools",
+          "note": "Otter turns speech into searchable notes with speaker labels.",
+          "source": "https://en.wikipedia.org/wiki/Otter.ai"
+        },
+        {
+          "id": 231,
+          "question": "Google's Veo is an AI model that generates...",
+          "option_1": "slide decks",
+          "option_2": "spreadsheets",
+          "option_3": "video clips",
+          "option_4": "ringtones",
+          "correct_answer": 3,
+          "category": "Today's AI tools",
+          "note": "Veo is DeepMind's text-to-video model, a rival to OpenAI's Sora.",
+          "source": "https://en.wikipedia.org/wiki/Veo_(text-to-video_model)"
+        },
+        {
+          "id": 232,
+          "question": "Ideogram made its name in AI image generation by being especially good at...",
+          "option_1": "rendering legible text inside images",
+          "option_2": "running without any computer",
+          "option_3": "drawing only stick figures",
+          "option_4": "printing photos out near-instantly",
+          "correct_answer": 1,
+          "category": "Today's AI tools",
+          "note": "Early image models mangled written words; Ideogram targeted that weakness.",
+          "source": "https://en.wikipedia.org/wiki/Ideogram_(text-to-image_model)"
+        },
+        {
+          "id": 233,
+          "question": "Poe, an app from Quora, lets users...",
+          "option_1": "order groceries by voice",
+          "option_2": "chat with many AI models",
+          "option_3": "play chess against a supercomputer",
+          "option_4": "edit PDF files automatically",
+          "correct_answer": 2,
+          "category": "Today's AI tools",
+          "note": "Poe aggregates models from OpenAI, Anthropic, Google and others.",
+          "source": "https://en.wikipedia.org/wiki/Poe_(software)"
+        },
+        {
+          "id": 234,
+          "question": "Le Chat, launched in 2024 as an AI chatbot, was made by which European company?",
+          "option_1": "SAP of Germany",
+          "option_2": "Spotify of Sweden",
+          "option_3": "Nokia of Finland",
+          "option_4": "Mistral AI of France",
+          "correct_answer": 4,
+          "category": "Today's AI tools",
+          "note": "Mistral AI, based in Paris, released Le Chat in February 2024. It has since been renamed Vibe.",
+          "source": "https://en.wikipedia.org/wiki/Mistral_AI"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "questions": [
+        {
+          "id": 235,
+          "question": "\"Automation bias\" means people tend to...",
+          "option_1": "refuse to use any technology",
+          "option_2": "automate every task at work",
+          "option_3": "fear that robots are secretly alive",
+          "option_4": "trusting automated systems too much",
+          "correct_answer": 4,
+          "category": "Using AI well",
+          "note": "People miss errors when they lean too hard on automated aids - a key reason to double-check AI.",
+          "source": "https://en.wikipedia.org/wiki/Automation_bias"
+        },
+        {
+          "id": 236,
+          "question": "A student submits an AI-written essay as their own work. The core problem is...",
+          "option_1": "AI essays are always full of errors",
+          "option_2": "passing off others' work as their own",
+          "option_3": "computers being banned in schools",
+          "option_4": "the essay cost too little to write",
+          "correct_answer": 2,
+          "category": "Using AI well",
+          "note": "Most schools treat undisclosed AI-written submissions as academic dishonesty.",
+          "source": "https://en.wikipedia.org/wiki/Academic_dishonesty"
+        },
+        {
+          "id": 237,
+          "question": "\"AI sycophancy\" is when a chatbot...",
+          "option_1": "always agrees with users",
+          "option_2": "refuses every single user request",
+          "option_3": "charges extra for compliments",
+          "option_4": "copies another user's chat",
+          "correct_answer": 1,
+          "category": "Using AI well",
+          "note": "A \"yes-man\" model can confirm false beliefs - healthy skepticism still applies.",
+          "source": "https://en.wikipedia.org/wiki/Sycophancy"
+        },
+        {
+          "id": 238,
+          "question": "Teachers worry that always letting AI do the thinking can cause...",
+          "option_1": "higher electricity bills",
+          "option_2": "significantly slower internet connections",
+          "option_3": "deskilling, losing unpracticed abilities",
+          "option_4": "computer virus infections",
+          "correct_answer": 3,
+          "category": "Using AI well",
+          "note": "Automation can erode hard-won skills when people stop practicing them.",
+          "source": "https://en.wikipedia.org/wiki/Deskilling"
+        },
+        {
+          "id": 239,
+          "question": "\"AI washing\" is when companies...",
+          "option_1": "wash their data centers",
+          "option_2": "remove bias from models",
+          "option_3": "open-source all of their code",
+          "option_4": "exaggerating their AI use",
+          "correct_answer": 4,
+          "category": "Using AI well",
+          "note": "Regulators have penalized firms for misleading AI claims.",
+          "source": "https://en.wikipedia.org/wiki/AI_washing"
+        },
+        {
+          "id": 240,
+          "question": "AI tools that screen job applications need careful oversight because...",
+          "option_1": "they work too slowly",
+          "option_2": "they can quietly disadvantage some applicants",
+          "option_3": "they cannot read PDF files",
+          "option_4": "they always pick the best possible candidates",
+          "correct_answer": 2,
+          "category": "Using AI well",
+          "note": "Resume-screening AI can inherit bias from historical hiring data.",
+          "source": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_hiring"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "questions": [
+        {
+          "id": 241,
+          "question": "The OECD AI Principles, adopted in 2019, are...",
+          "option_1": "a global ban on AI research",
+          "option_2": "a worldwide tax on AI company profits",
+          "option_3": "shared principles for trustworthy AI",
+          "option_4": "a treaty banning all robots",
+          "correct_answer": 3,
+          "category": "AI in the world",
+          "note": "The G20 adopted similar AI principles soon after, in June 2019.",
+          "source": "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence"
+        },
+        {
+          "id": 242,
+          "question": "The UN's Global Digital Compact, adopted in September 2024, is...",
+          "option_1": "a shared digital-tech governance framework",
+          "option_2": "a trade deal covering semiconductor supply chains",
+          "option_3": "a global internet tax treaty",
+          "option_4": "a pledge to close social media",
+          "correct_answer": 1,
+          "category": "AI in the world",
+          "note": "It was adopted at the UN Summit of the Future in New York.",
+          "source": "https://en.wikipedia.org/wiki/Global_Digital_Compact"
+        },
+        {
+          "id": 243,
+          "question": "The International Panel on the Information Environment, launched at the 2024 UN Summit of the Future, provides...",
+          "option_1": "free internet satellite access",
+          "option_2": "a global social network",
+          "option_3": "subsidized AI chips for developing countries",
+          "option_4": "independent evidence for digital policy",
+          "correct_answer": 4,
+          "category": "AI in the world",
+          "note": "It stays at arm's length from governments and the UN system.",
+          "source": "https://en.wikipedia.org/wiki/Global_Digital_Compact"
+        },
+        {
+          "id": 244,
+          "question": "Before passing a formal AI law, Canada relied on...",
+          "option_1": "a total ban on chatbots",
+          "option_2": "voluntary code and AI Safety Institute",
+          "option_3": "mandatory AI licenses for citizens",
+          "option_4": "fines for every AI mistake",
+          "correct_answer": 2,
+          "category": "AI in the world",
+          "note": "Canada announced its AI Safety Institute in November 2024 as part of a C$2.4 billion AI package.",
+          "source": "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence"
+        },
+        {
+          "id": 245,
+          "question": "The Partnership on AI, founded in 2016 by major tech companies, is...",
+          "option_1": "a government regulator",
+          "option_2": "a stock-exchange index",
+          "option_3": "a nonprofit responsible-AI coalition",
+          "option_4": "an AI chip manufacturing conglomerate",
+          "correct_answer": 3,
+          "category": "AI in the world",
+          "note": "Founding members included Amazon, Google, DeepMind, Microsoft, IBM and Facebook.",
+          "source": "https://en.wikipedia.org/wiki/Partnership_on_AI"
+        },
+        {
+          "id": 246,
+          "question": "The 2023 open letter \"Pause Giant AI Experiments\" called on AI labs to...",
+          "option_1": "pause giant AI training for 6 months",
+          "option_2": "stop all AI research permanently worldwide",
+          "option_3": "share all training data publicly",
+          "option_4": "sell models to the UN",
+          "correct_answer": 1,
+          "category": "AI in the world",
+          "note": "The Future of Life Institute letter drew over 30,000 signatures.",
+          "source": "https://en.wikipedia.org/wiki/Pause_Giant_AI_Experiments:_An_Open_Letter"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "questions": [
+        {
+          "id": 247,
+          "question": "In Spielberg's \"A.I. Artificial Intelligence\" (2001), David is...",
+          "option_1": "a robot boy programmed to love",
+          "option_2": "a boy genius who builds robots",
+          "option_3": "an alien child left behind on Earth",
+          "option_4": "a virtual-reality video game character",
+          "correct_answer": 1,
+          "category": "Fun & culture",
+          "note": "The project began with Stanley Kubrick; Spielberg directed it after Kubrick's death.",
+          "source": "https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence"
+        },
+        {
+          "id": 248,
+          "question": "J.A.R.V.I.S., in the Iron Man films, is...",
+          "option_1": "a villain's robot army",
+          "option_2": "Tony Stark's chauffeur",
+          "option_3": "a spy satellite",
+          "option_4": "Tony Stark's AI assistant",
+          "correct_answer": 4,
+          "category": "Fun & culture",
+          "note": "The name stands for \"Just A Rather Very Intelligent System\".",
+          "source": "https://en.wikipedia.org/wiki/J.A.R.V.I.S."
+        },
+        {
+          "id": 249,
+          "question": "In \"WarGames\" (1983), a teenage hacker nearly starts World War III by...",
+          "option_1": "selling secrets to a rival nation",
+          "option_2": "playing games with a military AI",
+          "option_3": "cutting off the Pentagon's power supply",
+          "option_4": "building an enormous robot soldier",
+          "correct_answer": 2,
+          "category": "Fun & culture",
+          "note": "The WOPR computer concludes that \"the only winning move is not to play\".",
+          "source": "https://en.wikipedia.org/wiki/WarGames"
+        },
+        {
+          "id": 250,
+          "question": "The 1973 film \"Westworld\" is set in...",
+          "option_1": "a spaceship run by AI",
+          "option_2": "an underwater city with robots",
+          "option_3": "an android theme park gone wrong",
+          "option_4": "a school for robots",
+          "correct_answer": 3,
+          "category": "Fun & culture",
+          "note": "Michael Crichton wrote and directed it decades before the HBO series.",
+          "source": "https://en.wikipedia.org/wiki/Westworld_(film)"
+        },
+        {
+          "id": 251,
+          "question": "The 1927 silent film \"Metropolis\" gave cinema one of its first...",
+          "option_1": "the machine-human Maria",
+          "option_2": "talking animal characters",
+          "option_3": "young computer hackers",
+          "option_4": "giant space stations",
+          "correct_answer": 1,
+          "category": "Fun & culture",
+          "note": "The Maschinenmensch \"Maria\" shaped how movies imagine robots and AI.",
+          "source": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)"
+        },
+        {
+          "id": 252,
+          "question": "In \"Short Circuit\" (1986), the robot Number 5 comes to life after...",
+          "option_1": "winning a chess match",
+          "option_2": "being struck by lightning",
+          "option_3": "downloading the entire internet",
+          "option_4": "swallowing a computer chip",
+          "correct_answer": 2,
+          "category": "Fun & culture",
+          "note": "Number 5 becomes self-aware and insists he is alive.",
+          "source": "https://en.wikipedia.org/wiki/Short_Circuit_(1986_film)"
+        }
+      ]
     }
   ]
         }
