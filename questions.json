@@ -3233,6 +3233,1084 @@
           "source": "https://en.wikipedia.org/wiki/Short_Circuit_(1986_film)"
         }
       ]
+    },
+    {
+      "date": "2026-12-22",
+      "questions": [
+        {
+          "id": 253,
+          "question": "In machine learning, an \"ensemble\" method...",
+          "option_1": "runs a single model on one example",
+          "option_2": "combines several models to predict better",
+          "option_3": "checks every data row for spelling errors by hand",
+          "option_4": "stores models in a library",
+          "correct_answer": 2,
+          "category": "AI basics",
+          "note": "Ensembles use multiple learning algorithms to get better predictions than any single one.",
+          "source": "https://en.wikipedia.org/wiki/Ensemble_learning"
+        },
+        {
+          "id": 254,
+          "question": "Principal component analysis (PCA) is mainly used to...",
+          "option_1": "sort emails by sender name",
+          "option_2": "encrypt data before sharing",
+          "option_3": "translate long text between many languages at once",
+          "option_4": "find the main directions of variation in data",
+          "correct_answer": 4,
+          "category": "AI basics",
+          "note": "PCA is a linear dimensionality reduction technique.",
+          "source": "https://en.wikipedia.org/wiki/Principal_component_analysis"
+        },
+        {
+          "id": 255,
+          "question": "Web search engines are the most visible example of...",
+          "option_1": "information retrieval",
+          "option_2": "text-to-speech synthesis",
+          "option_3": "robot navigation systems",
+          "option_4": "image compression formats",
+          "correct_answer": 1,
+          "category": "AI basics",
+          "note": "Information retrieval finds the resources relevant to an information need, such as a search query.",
+          "source": "https://en.wikipedia.org/wiki/Information_retrieval"
+        },
+        {
+          "id": 256,
+          "question": "Pattern recognition is the task of assigning a class to...",
+          "option_1": "a database, based on how large its file size is",
+          "option_2": "a computer, based on its price",
+          "option_3": "an observation, based on patterns in data",
+          "option_4": "a sentence, based on its font",
+          "correct_answer": 3,
+          "category": "AI basics",
+          "note": "Modern approaches often use machine learning trained on labeled data.",
+          "source": "https://en.wikipedia.org/wiki/Pattern_recognition"
+        },
+        {
+          "id": 257,
+          "question": "In machine learning, data augmentation helps reduce overfitting by training on...",
+          "option_1": "a smaller random sample of the original data set",
+          "option_2": "slightly modified copies of existing data",
+          "option_3": "copies of the model itself",
+          "option_4": "data with every label removed",
+          "correct_answer": 2,
+          "category": "AI basics",
+          "note": "It is widely used to get more training value out of the data a team already has.",
+          "source": "https://en.wikipedia.org/wiki/Data_augmentation"
+        },
+        {
+          "id": 258,
+          "question": "A Bayesian network shows variables and their conditional dependencies using a...",
+          "option_1": "sorted spreadsheet",
+          "option_2": "single straight line",
+          "option_3": "table of word counts",
+          "option_4": "directed acyclic graph",
+          "correct_answer": 4,
+          "category": "AI basics",
+          "note": "It can estimate, for example, the chance of diseases given a set of symptoms.",
+          "source": "https://en.wikipedia.org/wiki/Bayesian_network"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-23",
+      "questions": [
+        {
+          "id": 259,
+          "question": "Claude Shannon, who helped found AI, is known as the father of...",
+          "option_1": "machine translation",
+          "option_2": "computer graphics rendering",
+          "option_3": "information theory",
+          "option_4": "operating system design",
+          "correct_answer": 3,
+          "category": "Milestones",
+          "note": "His 1937 master's thesis also showed how Boolean algebra could be used in digital circuits.",
+          "source": "https://en.wikipedia.org/wiki/Claude_Shannon"
+        },
+        {
+          "id": 260,
+          "question": "Norbert Wiener, an MIT mathematician, is considered the originator of...",
+          "option_1": "cybernetics",
+          "option_2": "relational databases",
+          "option_3": "web browsers",
+          "option_4": "object-oriented programming",
+          "correct_answer": 1,
+          "category": "Milestones",
+          "note": "Cybernetics is the science of communication and control in living things and machines.",
+          "source": "https://en.wikipedia.org/wiki/Norbert_Wiener"
+        },
+        {
+          "id": 261,
+          "question": "In 2017 Fei-Fei Li co-founded AI4ALL, a nonprofit that works to...",
+          "option_1": "sell robots to schools",
+          "option_2": "rank AI companies by size",
+          "option_3": "ban facial recognition",
+          "option_4": "increase diversity in AI",
+          "correct_answer": 4,
+          "category": "Milestones",
+          "note": "She is a Stanford professor and a co-director of its Institute for Human-Centered AI.",
+          "source": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
+        },
+        {
+          "id": 262,
+          "question": "Sir Demis Hassabis is also the CEO of which drug-focused AI company?",
+          "option_1": "Recursion Pharmaceuticals",
+          "option_2": "Isomorphic Labs",
+          "option_3": "Illumina Genomics Labs",
+          "option_4": "Tempus Health Labs",
+          "correct_answer": 2,
+          "category": "Milestones",
+          "note": "He co-founded Google DeepMind and is also chief scientist of Alphabet.",
+          "source": "https://en.wikipedia.org/wiki/Demis_Hassabis"
+        },
+        {
+          "id": 263,
+          "question": "AI researcher Andrew Ng co-founded which online learning platform?",
+          "option_1": "Coursera",
+          "option_2": "Udemy",
+          "option_3": "edX",
+          "option_4": "Skillshare",
+          "correct_answer": 1,
+          "category": "Milestones",
+          "note": "He also cofounded and led Google Brain and was Chief Scientist at Baidu.",
+          "source": "https://en.wikipedia.org/wiki/Andrew_Ng"
+        },
+        {
+          "id": 264,
+          "question": "Judea Pearl won the 2011 Turing Award for work on probabilistic and...",
+          "option_1": "spatial reasoning",
+          "option_2": "moral reasoning",
+          "option_3": "causal reasoning",
+          "option_4": "verbal reasoning",
+          "correct_answer": 3,
+          "category": "Milestones",
+          "note": "He championed the probabilistic approach to AI and developed Bayesian networks.",
+          "source": "https://en.wikipedia.org/wiki/Judea_Pearl"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "questions": [
+        {
+          "id": 265,
+          "question": "In a residual network (ResNet), a \"skip\" connection lets a signal...",
+          "option_1": "double back to the first layer",
+          "option_2": "pause until a human approves",
+          "option_3": "be erased after each step",
+          "option_4": "jump past a few layers",
+          "correct_answer": 4,
+          "category": "How AI works",
+          "note": "ResNet was developed in 2015 for image recognition and won that year's ImageNet challenge.",
+          "source": "https://en.wikipedia.org/wiki/Residual_neural_network"
+        },
+        {
+          "id": 266,
+          "question": "The variational autoencoder was introduced in 2013 by Diederik Kingma and...",
+          "option_1": "Ian Goodfellow",
+          "option_2": "Max Welling",
+          "option_3": "Ilya Sutskever",
+          "option_4": "Ashish Vaswani",
+          "correct_answer": 2,
+          "category": "How AI works",
+          "note": "It links a neural encoder to a decoder through a probabilistic latent space.",
+          "source": "https://en.wikipedia.org/wiki/Variational_autoencoder"
+        },
+        {
+          "id": 267,
+          "question": "Graph neural networks are built for inputs that are...",
+          "option_1": "spoken audio clips",
+          "option_2": "single numbers",
+          "option_3": "graphs, such as molecules",
+          "option_4": "plain paragraphs of written text",
+          "correct_answer": 3,
+          "category": "How AI works",
+          "note": "In drug design, a molecule is a graph: atoms are nodes and bonds are edges.",
+          "source": "https://en.wikipedia.org/wiki/Graph_neural_network"
+        },
+        {
+          "id": 268,
+          "question": "OpenAI introduced its first GPT model, GPT-1, in which year?",
+          "option_1": "2018",
+          "option_2": "2015",
+          "option_3": "2020",
+          "option_4": "2022",
+          "correct_answer": 1,
+          "category": "How AI works",
+          "note": "It was the first use of generative pre-training on the transformer architecture.",
+          "source": "https://en.wikipedia.org/wiki/Generative_pre-trained_transformer"
+        },
+        {
+          "id": 269,
+          "question": "Batch normalization speeds up training by re-centering and re-scaling each layer's...",
+          "option_1": "labels",
+          "option_2": "file names",
+          "option_3": "user prompts",
+          "option_4": "inputs",
+          "correct_answer": 4,
+          "category": "How AI works",
+          "note": "It was introduced in 2015 by Sergey Ioffe and Christian Szegedy.",
+          "source": "https://en.wikipedia.org/wiki/Batch_normalization"
+        },
+        {
+          "id": 270,
+          "question": "Gradient boosting builds its prediction model...",
+          "option_1": "in one step from one big tree",
+          "option_2": "in stages, adding weak models one by one",
+          "option_3": "by copying a finished model",
+          "option_4": "by voting among a panel of human experts",
+          "correct_answer": 2,
+          "category": "How AI works",
+          "note": "The weak models are typically simple decision trees.",
+          "source": "https://en.wikipedia.org/wiki/Gradient_boosting"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-25",
+      "questions": [
+        {
+          "id": 271,
+          "question": "Kaggle, owned by Google, is best known as a platform for...",
+          "option_1": "data science competitions",
+          "option_2": "online grocery delivery orders",
+          "option_3": "video game streaming",
+          "option_4": "hotel and travel bookings",
+          "correct_answer": 1,
+          "category": "Today's AI tools",
+          "note": "Users can also share datasets and build models there.",
+          "source": "https://en.wikipedia.org/wiki/Kaggle"
+        },
+        {
+          "id": 272,
+          "question": "Tabnine is an AI tool that...",
+          "option_1": "edits and retouches your family photos",
+          "option_2": "books flights",
+          "option_3": "autocompletes code for programmers",
+          "option_4": "translates speech",
+          "correct_answer": 3,
+          "category": "Today's AI tools",
+          "note": "It started in 2018 as a student project by Jacob Jackson.",
+          "source": "https://en.wikipedia.org/wiki/Tabnine"
+        },
+        {
+          "id": 273,
+          "question": "WolframAlpha, launched in 2009, is an online...",
+          "option_1": "photo-sharing site",
+          "option_2": "knowledge engine that computes answers",
+          "option_3": "video-streaming service",
+          "option_4": "social network for software developers worldwide",
+          "correct_answer": 2,
+          "category": "Today's AI tools",
+          "note": "It is built on Wolfram Research's Mathematica.",
+          "source": "https://en.wikipedia.org/wiki/Wolfram_Alpha"
+        },
+        {
+          "id": 274,
+          "question": "In late 2022, Lensa's \"magic avatars\" feature turned users' selfies into...",
+          "option_1": "printed greeting cards",
+          "option_2": "3D-printed busts",
+          "option_3": "voice recordings",
+          "option_4": "AI-styled portraits",
+          "correct_answer": 4,
+          "category": "Today's AI tools",
+          "note": "Lensa is made by Prisma Labs and uses Stable Diffusion.",
+          "source": "https://en.wikipedia.org/wiki/Lensa"
+        },
+        {
+          "id": 275,
+          "question": "Which tech giant paid Inflection AI $650 million in 2024 to license its technology?",
+          "option_1": "Google",
+          "option_2": "Amazon",
+          "option_3": "Microsoft",
+          "option_4": "Meta Platforms",
+          "correct_answer": 3,
+          "category": "Today's AI tools",
+          "note": "Co-founders Mustafa Suleyman and Karen Simonyan left to start Microsoft AI.",
+          "source": "https://en.wikipedia.org/wiki/Inflection_AI"
+        },
+        {
+          "id": 276,
+          "question": "Cohere, a large-language-model company founded in 2019, is based in which country?",
+          "option_1": "Canada",
+          "option_2": "Germany",
+          "option_3": "Japan",
+          "option_4": "Israel",
+          "correct_answer": 1,
+          "category": "Today's AI tools",
+          "note": "Co-founder Aidan Gomez was one of the authors of the 2017 transformer paper.",
+          "source": "https://en.wikipedia.org/wiki/Cohere"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-26",
+      "questions": [
+        {
+          "id": 277,
+          "question": "Misinformation differs from disinformation because it is...",
+          "option_1": "always created by artificial intelligence tools",
+          "option_2": "often spread without intent to deceive",
+          "option_3": "only found in print",
+          "option_4": "always completely true",
+          "correct_answer": 2,
+          "category": "Using AI well",
+          "note": "Disinformation is deliberately deceptive; misinformation is often a mistake or misunderstanding.",
+          "source": "https://en.wikipedia.org/wiki/Misinformation"
+        },
+        {
+          "id": 278,
+          "question": "Digital literacy is the ability to find, evaluate and...",
+          "option_1": "repair broken computer hardware parts",
+          "option_2": "write search engines",
+          "option_3": "sell digital products",
+          "option_4": "communicate information online",
+          "correct_answer": 4,
+          "category": "Using AI well",
+          "note": "It combines technical and thinking skills.",
+          "source": "https://en.wikipedia.org/wiki/Digital_literacy"
+        },
+        {
+          "id": 279,
+          "question": "Critical thinking means analyzing facts and evidence to reach...",
+          "option_1": "sound conclusions",
+          "option_2": "quick and easy answers",
+          "option_3": "popular public opinions",
+          "option_4": "friendly chatbot replies",
+          "correct_answer": 1,
+          "category": "Using AI well",
+          "note": "It includes recognizing assumptions and weighing other perspectives, a good habit with AI answers.",
+          "source": "https://en.wikipedia.org/wiki/Critical_thinking"
+        },
+        {
+          "id": 280,
+          "question": "A digital watermark is a marker hidden inside...",
+          "option_1": "a printed paper receipt",
+          "option_2": "a computer's power supply",
+          "option_3": "an image, audio or video signal",
+          "option_4": "a keyboard layout",
+          "correct_answer": 3,
+          "category": "Using AI well",
+          "note": "Watermarks can show ownership or help check that content is authentic.",
+          "source": "https://en.wikipedia.org/wiki/Digital_watermarking"
+        },
+        {
+          "id": 281,
+          "question": "A data breach is the unauthorized exposure, disclosure or loss of...",
+          "option_1": "old software licenses",
+          "option_2": "personal information",
+          "option_3": "public weather data",
+          "option_4": "spare computer parts",
+          "correct_answer": 2,
+          "category": "Using AI well",
+          "note": "Causes include hacking, lost devices, insider leaks and phishing.",
+          "source": "https://en.wikipedia.org/wiki/Data_breach"
+        },
+        {
+          "id": 282,
+          "question": "To be information literate, a person must recognize when information is needed and be able to...",
+          "option_1": "memorize it word for word",
+          "option_2": "hide it from others",
+          "option_3": "print it for filing",
+          "option_4": "locate, evaluate and use it",
+          "correct_answer": 4,
+          "category": "Using AI well",
+          "note": "The 1989 American Library Association committee defined it this way.",
+          "source": "https://en.wikipedia.org/wiki/Information_literacy"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-27",
+      "questions": [
+        {
+          "id": 283,
+          "question": "Which technology can help detect credit card fraud?",
+          "option_1": "paper receipts filed by hand",
+          "option_2": "longer card numbers",
+          "option_3": "AI and machine learning models",
+          "option_4": "heavier plastic cards",
+          "correct_answer": 3,
+          "category": "AI in the world",
+          "note": "Rule induction, decision trees and neural networks are common detection methods.",
+          "source": "https://en.wikipedia.org/wiki/Credit_card_fraud"
+        },
+        {
+          "id": 284,
+          "question": "China's Fujian power grid used AI techniques to create a...",
+          "option_1": "wide area protection system",
+          "option_2": "solar-panel factory",
+          "option_3": "nationwide ticket system",
+          "option_4": "city-wide parking map",
+          "correct_answer": 1,
+          "category": "AI in the world",
+          "note": "A smart grid adds two-way communication to the electricity network.",
+          "source": "https://en.wikipedia.org/wiki/Smart_grid"
+        },
+        {
+          "id": 285,
+          "question": "In 1954, which university team and IBM publicly demonstrated early machine translation?",
+          "option_1": "Harvard University",
+          "option_2": "Yale University",
+          "option_3": "Princeton University",
+          "option_4": "Georgetown University",
+          "correct_answer": 4,
+          "category": "AI in the world",
+          "note": "Early machine translation was demonstrated in the 1950s, long before neural methods.",
+          "source": "https://en.wikipedia.org/wiki/Machine_translation"
+        },
+        {
+          "id": 286,
+          "question": "In video games, \"game AI\" mostly controls...",
+          "option_1": "the buttons on the player's controller",
+          "option_2": "non-player characters (NPCs)",
+          "option_3": "the game's price",
+          "option_4": "the graphics card",
+          "correct_answer": 2,
+          "category": "AI in the world",
+          "note": "Game AI aims for believable, engaging behavior rather than \"true\" intelligence.",
+          "source": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games"
+        },
+        {
+          "id": 287,
+          "question": "Computer-aided diagnosis systems help doctors interpret...",
+          "option_1": "patient billing records",
+          "option_2": "hospital shift schedules",
+          "option_3": "medical images such as X-rays and MRIs",
+          "option_4": "drug price lists",
+          "correct_answer": 3,
+          "category": "AI in the world",
+          "note": "They highlight conspicuous sections that may be signs of disease.",
+          "source": "https://en.wikipedia.org/wiki/Computer-aided_diagnosis"
+        },
+        {
+          "id": 288,
+          "question": "Predictive maintenance uses equipment data, and often machine learning, to forecast...",
+          "option_1": "when maintenance will be needed",
+          "option_2": "which parts cost the most",
+          "option_3": "who will leave the team",
+          "option_4": "how loud a machine is",
+          "correct_answer": 1,
+          "category": "AI in the world",
+          "note": "The aim is to prevent unexpected failures and plan repairs only when warranted.",
+          "source": "https://en.wikipedia.org/wiki/Predictive_maintenance"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-28",
+      "questions": [
+        {
+          "id": 289,
+          "question": "In the 2004 film \"I, Robot\", who plays Detective Del Spooner?",
+          "option_1": "Tom Cruise",
+          "option_2": "Bruce Willis",
+          "option_3": "Denzel Washington",
+          "option_4": "Will Smith",
+          "correct_answer": 4,
+          "category": "Fun & culture",
+          "note": "The film uses Isaac Asimov's Three Laws of Robotics.",
+          "source": "https://en.wikipedia.org/wiki/I,_Robot_(film)"
+        },
+        {
+          "id": 290,
+          "question": "Robby the Robot first appeared in which 1956 film?",
+          "option_1": "The Day the Earth Stood Still",
+          "option_2": "Forbidden Planet",
+          "option_3": "Destination Moon",
+          "option_4": "Rocketship X-M",
+          "correct_answer": 2,
+          "category": "Fun & culture",
+          "note": "He later nicknamed himself \"the hardest working robot in Hollywood\".",
+          "source": "https://en.wikipedia.org/wiki/Robby_the_Robot"
+        },
+        {
+          "id": 291,
+          "question": "In \"The Day the Earth Stood Still\" (1951), the alien visitor is accompanied by a powerful robot named...",
+          "option_1": "Tobor",
+          "option_2": "Gigantor",
+          "option_3": "Gort",
+          "option_4": "Talos",
+          "correct_answer": 3,
+          "category": "Fun & culture",
+          "note": "Gort was played by Lock Martin in the 1951 film.",
+          "source": "https://en.wikipedia.org/wiki/Gort_(The_Day_the_Earth_Stood_Still)"
+        },
+        {
+          "id": 292,
+          "question": "Wally Pfister's 2014 AI thriller \"Transcendence\" stars which actor?",
+          "option_1": "Johnny Depp",
+          "option_2": "Brad Pitt",
+          "option_3": "Matt Damon",
+          "option_4": "Leonardo DiCaprio",
+          "correct_answer": 1,
+          "category": "Fun & culture",
+          "note": "Scientists race to finish an AI project while a radical anti-technology group targets them.",
+          "source": "https://en.wikipedia.org/wiki/Transcendence_(2014_film)"
+        },
+        {
+          "id": 293,
+          "question": "In Battlestar Galactica, the Cylons are...",
+          "option_1": "alien traders seeking peace",
+          "option_2": "human colonists who left Earth",
+          "option_3": "ancient gods in disguise",
+          "option_4": "robots that want to wipe out humanity",
+          "correct_answer": 4,
+          "category": "Fun & culture",
+          "note": "In the 2004 series, humans created them and they rose up.",
+          "source": "https://en.wikipedia.org/wiki/Cylon_(Battlestar_Galactica)"
+        },
+        {
+          "id": 294,
+          "question": "In the 1970 film \"Colossus: The Forbin Project\", the US defense computer...",
+          "option_1": "gets infected and shuts down",
+          "option_2": "becomes sentient and seizes control",
+          "option_3": "is sold to a foreign government",
+          "option_4": "is stolen by a rival spy",
+          "correct_answer": 2,
+          "category": "Fun & culture",
+          "note": "It decides to end all warfare and ignores its creators' orders to stop.",
+          "source": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-29",
+      "questions": [
+        {
+          "id": 295,
+          "question": "Semi-supervised learning mixes a small amount of labeled data with...",
+          "option_1": "a small amount of spoken data",
+          "option_2": "a large amount of unlabeled data",
+          "option_3": "a large number of human reviewers",
+          "option_4": "a few extra computer chips",
+          "correct_answer": 2,
+          "category": "AI basics",
+          "note": "It matters for large language models, which need huge amounts of training data.",
+          "source": "https://en.wikipedia.org/wiki/Semi-supervised_learning"
+        },
+        {
+          "id": 296,
+          "question": "Dimensionality reduction transforms data from a high-dimensional space into...",
+          "option_1": "a larger set of labels",
+          "option_2": "a table of sorted names",
+          "option_3": "a compressed audio file",
+          "option_4": "a low-dimensional space",
+          "correct_answer": 4,
+          "category": "AI basics",
+          "note": "The smaller representation keeps some meaningful properties of the original data.",
+          "source": "https://en.wikipedia.org/wiki/Dimensionality_reduction"
+        },
+        {
+          "id": 297,
+          "question": "Federated learning trains a shared model while the data stays...",
+          "option_1": "decentralized, with each client",
+          "option_2": "in one central database",
+          "option_3": "on a public website",
+          "option_4": "in the model itself",
+          "correct_answer": 1,
+          "category": "AI basics",
+          "note": "Several clients train a model together without pooling their raw data.",
+          "source": "https://en.wikipedia.org/wiki/Federated_learning"
+        },
+        {
+          "id": 298,
+          "question": "Anomaly detection is the identification of...",
+          "option_1": "the most common items in a data set",
+          "option_2": "the oldest records in a database",
+          "option_3": "rare, unusual items or events",
+          "option_4": "items that have been deleted",
+          "correct_answer": 3,
+          "category": "AI basics",
+          "note": "It is also called outlier detection.",
+          "source": "https://en.wikipedia.org/wiki/Anomaly_detection"
+        },
+        {
+          "id": 299,
+          "question": "Classic expert systems reason mainly through...",
+          "option_1": "random guesses",
+          "option_2": "if-then rules",
+          "option_3": "video examples",
+          "option_4": "typed passwords",
+          "correct_answer": 2,
+          "category": "AI basics",
+          "note": "Expert systems emulate the decision-making ability of a human expert.",
+          "source": "https://en.wikipedia.org/wiki/Expert_system"
+        },
+        {
+          "id": 300,
+          "question": "Knowledge representation models information in a structured way for...",
+          "option_1": "printed encyclopedias",
+          "option_2": "video editing software",
+          "option_3": "spreadsheet macros",
+          "option_4": "knowledge-based systems",
+          "correct_answer": 4,
+          "category": "AI basics",
+          "note": "It aims to represent information about the world in a form a computer system can use.",
+          "source": "https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-30",
+      "questions": [
+        {
+          "id": 301,
+          "question": "Deep Blue, the first computer to beat a reigning world chess champion in a match, was built by...",
+          "option_1": "Intel",
+          "option_2": "Sun Microsystems",
+          "option_3": "IBM",
+          "option_4": "Apple",
+          "correct_answer": 3,
+          "category": "Milestones",
+          "note": "It was a customized IBM supercomputer designed by Feng-hsiung Hsu.",
+          "source": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)"
+        },
+        {
+          "id": 302,
+          "question": "IBM Watson was first built to answer questions on which TV quiz show?",
+          "option_1": "Jeopardy!",
+          "option_2": "Wheel of Fortune",
+          "option_3": "Family Feud",
+          "option_4": "The Price Is Right",
+          "correct_answer": 1,
+          "category": "Milestones",
+          "note": "Watson was named after IBM founder Thomas J. Watson.",
+          "source": "https://en.wikipedia.org/wiki/Watson_(computer)"
+        },
+        {
+          "id": 303,
+          "question": "Logic Theorist, completed in 1956, has been described as...",
+          "option_1": "the first video game console",
+          "option_2": "the first web search engine",
+          "option_3": "the first robot vacuum",
+          "option_4": "the first artificial intelligence program",
+          "correct_answer": 4,
+          "category": "Milestones",
+          "note": "It proved 38 of the first 52 theorems in Principia Mathematica.",
+          "source": "https://en.wikipedia.org/wiki/Logic_Theorist"
+        },
+        {
+          "id": 304,
+          "question": "Marvin Minsky, an AI pioneer, joined the faculty of which university in 1958?",
+          "option_1": "Stanford University",
+          "option_2": "Massachusetts Institute of Technology",
+          "option_3": "Yale University",
+          "option_4": "Cornell University",
+          "correct_answer": 2,
+          "category": "Milestones",
+          "note": "He stayed at MIT for the rest of his career.",
+          "source": "https://en.wikipedia.org/wiki/Marvin_Minsky"
+        },
+        {
+          "id": 305,
+          "question": "In March 2016, Go champion Lee Sedol lost a series to AlphaGo by what score?",
+          "option_1": "1-4",
+          "option_2": "0-5",
+          "option_3": "2-3",
+          "option_4": "1-3",
+          "correct_answer": 1,
+          "category": "Milestones",
+          "note": "Lee Sedol won one game of the five.",
+          "source": "https://en.wikipedia.org/wiki/Lee_Sedol"
+        },
+        {
+          "id": 306,
+          "question": "Alan Turing is widely regarded as the father of...",
+          "option_1": "twentieth-century film animation",
+          "option_2": "quantum chemistry research",
+          "option_3": "theoretical computer science",
+          "option_4": "industrial product design",
+          "correct_answer": 3,
+          "category": "Milestones",
+          "note": "He formalised the concepts of algorithm and computation with the Turing machine.",
+          "source": "https://en.wikipedia.org/wiki/Alan_Turing"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "questions": [
+        {
+          "id": 307,
+          "question": "A convolutional neural network learns features by optimizing...",
+          "option_1": "spelling rules",
+          "option_2": "database index tables",
+          "option_3": "word lists",
+          "option_4": "filters (kernels)",
+          "correct_answer": 4,
+          "category": "How AI works",
+          "note": "CNNs are a standard approach in computer vision.",
+          "source": "https://en.wikipedia.org/wiki/Convolutional_neural_network"
+        },
+        {
+          "id": 308,
+          "question": "Recurrent neural networks are designed for...",
+          "option_1": "unordered piles of images",
+          "option_2": "sequential data like text",
+          "option_3": "one-off numeric constants",
+          "option_4": "printed circuit layouts",
+          "correct_answer": 2,
+          "category": "How AI works",
+          "note": "Their output at one time step is fed back as input at the next.",
+          "source": "https://en.wikipedia.org/wiki/Recurrent_neural_network"
+        },
+        {
+          "id": 309,
+          "question": "Long short-term memory (LSTM) was designed to ease which problem in recurrent networks?",
+          "option_1": "the missing label problem",
+          "option_2": "the slow download problem",
+          "option_3": "the vanishing gradient problem",
+          "option_4": "the low contrast problem",
+          "correct_answer": 3,
+          "category": "How AI works",
+          "note": "It aims to give a short-term memory that can last thousands of timesteps.",
+          "source": "https://en.wikipedia.org/wiki/Long_short-term_memory"
+        },
+        {
+          "id": 310,
+          "question": "A neural network can solve non-trivial problems with few nodes if its activation function is...",
+          "option_1": "nonlinear",
+          "option_2": "strictly linear",
+          "option_3": "constant",
+          "option_4": "random",
+          "correct_answer": 1,
+          "category": "How AI works",
+          "note": "ReLU and sigmoid are common activation functions.",
+          "source": "https://en.wikipedia.org/wiki/Activation_function"
+        },
+        {
+          "id": 311,
+          "question": "Dropout reduces overfitting by randomly setting some neuron values to...",
+          "option_1": "one",
+          "option_2": "negative one",
+          "option_3": "their maximum",
+          "option_4": "zero",
+          "correct_answer": 4,
+          "category": "How AI works",
+          "note": "It is a regularization technique used during training.",
+          "source": "https://en.wikipedia.org/wiki/Dropout_(neural_networks)"
+        },
+        {
+          "id": 312,
+          "question": "An autoencoder has two main parts: an encoder and a...",
+          "option_1": "compiler",
+          "option_2": "decoder",
+          "option_3": "translator",
+          "option_4": "scheduler",
+          "correct_answer": 2,
+          "category": "How AI works",
+          "note": "The decoder reconstructs the input from the code.",
+          "source": "https://en.wikipedia.org/wiki/Autoencoder"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "questions": [
+        {
+          "id": 313,
+          "question": "Alexa was partly developed from a Polish speech synthesizer named...",
+          "option_1": "Ivona",
+          "option_2": "Wavenet",
+          "option_3": "Vocalis",
+          "option_4": "Glossa",
+          "correct_answer": 1,
+          "category": "Today's AI tools",
+          "note": "It was also built on the Evi system by William Tunstall-Pedoe.",
+          "source": "https://en.wikipedia.org/wiki/Amazon_Alexa"
+        },
+        {
+          "id": 314,
+          "question": "Google Translate is best described as...",
+          "option_1": "a video-hosting service",
+          "option_2": "a map-routing service",
+          "option_3": "a neural translation service",
+          "option_4": "a cloud photo-storage service",
+          "correct_answer": 3,
+          "category": "Today's AI tools",
+          "note": "It has a website, a mobile app and an API.",
+          "source": "https://en.wikipedia.org/wiki/Google_Translate"
+        },
+        {
+          "id": 315,
+          "question": "Google Lens, an image recognition tool, was first announced at Google I/O in which year?",
+          "option_1": "2014",
+          "option_2": "2017",
+          "option_3": "2019",
+          "option_4": "2021",
+          "correct_answer": 2,
+          "category": "Today's AI tools",
+          "note": "It brings up information about the objects it identifies.",
+          "source": "https://en.wikipedia.org/wiki/Google_Lens"
+        },
+        {
+          "id": 316,
+          "question": "Claude is a series of large language models developed by which company?",
+          "option_1": "Nvidia",
+          "option_2": "Salesforce",
+          "option_3": "Baidu",
+          "option_4": "Anthropic",
+          "correct_answer": 4,
+          "category": "Today's AI tools",
+          "note": "It was released as a chatbot in March 2023.",
+          "source": "https://en.wikipedia.org/wiki/Claude_(language_model)"
+        },
+        {
+          "id": 317,
+          "question": "Google Assistant could hold two-way conversations, unlike which earlier Google product?",
+          "option_1": "Google Wave",
+          "option_2": "Google Glass",
+          "option_3": "Google Now",
+          "option_4": "Google Reader",
+          "correct_answer": 3,
+          "category": "Today's AI tools",
+          "note": "People mostly used it through natural voice.",
+          "source": "https://en.wikipedia.org/wiki/Google_Assistant"
+        },
+        {
+          "id": 318,
+          "question": "Duolingo offers a course in which constructed language?",
+          "option_1": "Klingon",
+          "option_2": "Elvish",
+          "option_3": "Na'vi",
+          "option_4": "Dothraki",
+          "correct_answer": 1,
+          "category": "Today's AI tools",
+          "note": "Duolingo also offers courses in music, math and chess.",
+          "source": "https://en.wikipedia.org/wiki/Duolingo"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-02",
+      "questions": [
+        {
+          "id": 319,
+          "question": "Explainable AI focuses on the reasoning behind...",
+          "option_1": "a company's marketing plans",
+          "option_2": "an AI system's decisions",
+          "option_3": "a programmer's work hours",
+          "option_4": "a data center's power bill",
+          "correct_answer": 2,
+          "category": "Using AI well",
+          "note": "The aim is to let people keep intellectual oversight of AI algorithms.",
+          "source": "https://en.wikipedia.org/wiki/Explainable_artificial_intelligence"
+        },
+        {
+          "id": 320,
+          "question": "Differential privacy protects individuals by adding carefully calibrated...",
+          "option_1": "passwords",
+          "option_2": "labels",
+          "option_3": "watermarks",
+          "option_4": "noise",
+          "correct_answer": 4,
+          "category": "Using AI well",
+          "note": "It lets a data holder share aggregate patterns without singling out individuals.",
+          "source": "https://en.wikipedia.org/wiki/Differential_privacy"
+        },
+        {
+          "id": 321,
+          "question": "Model collapse can happen when a model is trained on...",
+          "option_1": "text made by other models",
+          "option_2": "only handwritten books",
+          "option_3": "too little electricity",
+          "option_4": "labels checked by experts",
+          "correct_answer": 1,
+          "category": "Using AI well",
+          "note": "It has been called the AI version of mad cow disease.",
+          "source": "https://en.wikipedia.org/wiki/Model_collapse"
+        },
+        {
+          "id": 322,
+          "question": "The digital divide is unequal access to and use of...",
+          "option_1": "public libraries",
+          "option_2": "legal advice",
+          "option_3": "digital technology",
+          "option_4": "clean water",
+          "correct_answer": 3,
+          "category": "Using AI well",
+          "note": "It includes motivational, material, skills and usage access.",
+          "source": "https://en.wikipedia.org/wiki/Digital_divide"
+        },
+        {
+          "id": 323,
+          "question": "Fact-checking is the process of verifying the...",
+          "option_1": "typing speed of writers",
+          "option_2": "factual accuracy of statements",
+          "option_3": "page count of printed articles",
+          "option_4": "price of daily newspapers",
+          "correct_answer": 2,
+          "category": "Using AI well",
+          "note": "It can be done before or after content is published.",
+          "source": "https://en.wikipedia.org/wiki/Fact-checking"
+        },
+        {
+          "id": 324,
+          "question": "Algorithmic transparency holds that the factors behind an algorithm's decisions should be...",
+          "option_1": "kept secret by default",
+          "option_2": "hidden from regulators",
+          "option_3": "limited to its programmers",
+          "option_4": "visible to those affected",
+          "correct_answer": 4,
+          "category": "Using AI well",
+          "note": "The phrase was coined in 2016 by Nicholas Diakopoulos and Michael Koliska.",
+          "source": "https://en.wikipedia.org/wiki/Algorithmic_transparency"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-03",
+      "questions": [
+        {
+          "id": 325,
+          "question": "A self-driving car can operate with...",
+          "option_1": "a human steering at all times",
+          "option_2": "remote-control joysticks only",
+          "option_3": "reduced or no human input",
+          "option_4": "a second car towing it",
+          "correct_answer": 3,
+          "category": "AI in the world",
+          "note": "They are sometimes called robotaxis when used by a ridesharing company.",
+          "source": "https://en.wikipedia.org/wiki/Self-driving_car"
+        },
+        {
+          "id": 326,
+          "question": "In precision agriculture, a tractor-mounted sensor can vary the amount of what is spread on crops?",
+          "option_1": "fertilizer",
+          "option_2": "sunlight",
+          "option_3": "fresh rainwater",
+          "option_4": "wall paint",
+          "correct_answer": 1,
+          "category": "AI in the world",
+          "note": "The sensor records light reflection of crops and calculates fertilization recommendations.",
+          "source": "https://en.wikipedia.org/wiki/Precision_agriculture"
+        },
+        {
+          "id": 327,
+          "question": "Which science fiction author described a robotic vacuum cleaner in 1956?",
+          "option_1": "Isaac Asimov",
+          "option_2": "Arthur C. Clarke",
+          "option_3": "Ray Bradbury",
+          "option_4": "Robert A. Heinlein",
+          "correct_answer": 4,
+          "category": "AI in the world",
+          "note": "Robovacs have sensors, robotic drives and programmable controllers.",
+          "source": "https://en.wikipedia.org/wiki/Robotic_vacuum_cleaner"
+        },
+        {
+          "id": 328,
+          "question": "Industrial robots in factories are typically used for tasks like...",
+          "option_1": "writing, editing and publishing novels",
+          "option_2": "welding, painting and assembly",
+          "option_3": "farming, fishing and logging",
+          "option_4": "teaching, tutoring and grading",
+          "correct_answer": 2,
+          "category": "AI in the world",
+          "note": "They are programmable and can move on three or more axes.",
+          "source": "https://en.wikipedia.org/wiki/Industrial_robot"
+        },
+        {
+          "id": 329,
+          "question": "To compute the physics of the atmosphere, weather models divide the planet into...",
+          "option_1": "a list of cities",
+          "option_2": "a set of satellites",
+          "option_3": "a 3D grid",
+          "option_4": "one flat map",
+          "correct_answer": 3,
+          "category": "AI in the world",
+          "note": "Each grid cell interacts with its neighbors in the model.",
+          "source": "https://en.wikipedia.org/wiki/Numerical_weather_prediction"
+        },
+        {
+          "id": 330,
+          "question": "AI researcher Yann LeCun is a professor at which university's Courant Institute?",
+          "option_1": "New York University",
+          "option_2": "Columbia University",
+          "option_3": "Johns Hopkins University",
+          "option_4": "Cornell University",
+          "correct_answer": 1,
+          "category": "AI in the world",
+          "note": "He works on AI, machine learning, computer vision and robotics.",
+          "source": "https://en.wikipedia.org/wiki/Yann_LeCun"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-04",
+      "questions": [
+        {
+          "id": 331,
+          "question": "Astro Boy, the robot-boy hero, was created by which manga artist?",
+          "option_1": "Hayao Miyazaki",
+          "option_2": "Akira Toriyama",
+          "option_3": "Rumiko Takahashi",
+          "option_4": "Osamu Tezuka",
+          "correct_answer": 4,
+          "category": "Fun & culture",
+          "note": "In Japan the series is called Mighty Atom.",
+          "source": "https://en.wikipedia.org/wiki/Astro_Boy"
+        },
+        {
+          "id": 332,
+          "question": "Who stars in the 1999 film \"Bicentennial Man\"?",
+          "option_1": "Jim Carrey",
+          "option_2": "Robin Williams",
+          "option_3": "Tom Hanks",
+          "option_4": "Eddie Murphy",
+          "correct_answer": 2,
+          "category": "Fun & culture",
+          "note": "The film is based on a novelette by Isaac Asimov.",
+          "source": "https://en.wikipedia.org/wiki/Bicentennial_Man_(film)"
+        },
+        {
+          "id": 333,
+          "question": "In the 1982 film \"Tron\", programmer Kevin Flynn is transported into...",
+          "option_1": "a haunted seaside hotel",
+          "option_2": "an orbiting space station",
+          "option_3": "a computer's software world",
+          "option_4": "a medieval mountain village",
+          "correct_answer": 3,
+          "category": "Fun & culture",
+          "note": "Jeff Bridges plays Kevin Flynn.",
+          "source": "https://en.wikipedia.org/wiki/Tron"
+        },
+        {
+          "id": 334,
+          "question": "Bender, the robot in \"Futurama\", is voiced by...",
+          "option_1": "John DiMaggio",
+          "option_2": "Billy West",
+          "option_3": "Seth MacFarlane",
+          "option_4": "Maurice LaMarche",
+          "correct_answer": 1,
+          "category": "Fun & culture",
+          "note": "Bender was conceived by Matt Groening and David X. Cohen.",
+          "source": "https://en.wikipedia.org/wiki/Bender_(Futurama)"
+        },
+        {
+          "id": 335,
+          "question": "In \"Star Wars\", R2-D2 is what type of droid?",
+          "option_1": "protocol",
+          "option_2": "heavy battle",
+          "option_3": "medical",
+          "option_4": "astromech",
+          "correct_answer": 4,
+          "category": "Fun & culture",
+          "note": "R2-D2 is a close friend of C-3PO.",
+          "source": "https://en.wikipedia.org/wiki/R2-D2"
+        },
+        {
+          "id": 336,
+          "question": "In \"Knight Rider\", the AI car KITT was a modified...",
+          "option_1": "Ford Mustang Mach 1",
+          "option_2": "Pontiac Firebird Trans Am",
+          "option_3": "Chevrolet Corvette Stingray",
+          "option_4": "Dodge Charger R/T",
+          "correct_answer": 2,
+          "category": "Fun & culture",
+          "note": "KITT is an artificially intelligent computer module in a robotic car.",
+          "source": "https://en.wikipedia.org/wiki/KITT"
+        }
+      ]
     }
   ]
         }
